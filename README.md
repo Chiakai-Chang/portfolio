@@ -63,6 +63,20 @@
 
 ---
 
+## Various Helper Programs Developed with Care (For Specific Tasks)
+
+* ## [All-Net/FB Group Forensic Key Information Reporting Bureau](https://github.com/Chiakai-Chang/FacebookCrawler)
+  * During elections, major events, or security crises, teams often have to be mobilized to monitor the Internet and social media platforms around the clock, resulting in exhaustion.
+  * Hence, this web crawler program was developed to automatically filter key information across the Internet during various elections or major events like the World Series. It has proven helpful in identifying election gambling or sensitive information, allowing teams to respond promptly.
+  * [![](https://chiakai-chang.github.io/tempHTML/img/Crawler.jpg)](https://github.com/Chiakai-Chang/FacebookCrawler)
+
+* ## [Automatic YouTube Ad Crawler](https://github.com/Chiakai-Chang/AutoParseYoutubeAD)
+  * In recent years, YouTube ads have been frequently misused by fraud groups, causing many people to fall for scams. However, collecting fraudulent ad reports has been an inefficient process, heavily relying on luck and algorithmic recommendations.
+  * Therefore, this crawler program was developed to aid in searching for fraudulent ads using most likely keywords and minimizes the ad rotation time. It collects and organizes ad information as required for reporting. To date, this tool has successfully collected thousands of advertisements.
+  * [![](https://chiakai-chang.github.io/tempHTML/img/YT_AD.jpg)](https://github.com/Chiakai-Chang/AutoParseYoutubeAD)
+
+---
+
 ## Various Helper Programs Developed with Care  (Ready to use in Colab, click on the program name to open)
 * ## [Facebook Friends Organizer](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * Please refer to the tutorial: [User Guide](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
