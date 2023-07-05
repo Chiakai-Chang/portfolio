@@ -3,11 +3,13 @@
 
 ## Summary
 
-Experienced police officer with over 15 years of service in the Taichung City Police Department. Proven track record in solving major criminal cases, including homicides. Skilled in digital forensics and programming, with a strong focus on using technology to improve policing efficiency. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats. Currently seeking to bring my unique blend of policing experience and technical expertise to an international policing role.
+Experienced police officer with over 15 years of service in the Taichung City Police Department. Proven track record in solving major criminal cases, including homicides. Skilled in digital forensics and programming, with a strong focus on using technology to improve policing efficiency. Recognized as a Senior Tech Crime Investigator, Crime Intelligence Analyst, and Class Representative of the 7th Manager Class at Taiwan AI Academy. Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats. Currently seeking to bring my unique blend of policing experience and technical expertise to an international policing role.
 
 - **15+ Years of Policing Experience:** Extensive experience in criminal investigation, evidence collection, and team leadership.
 - **Major Case Experience:** Solved numerous high-profile cases, including homicides.
 - **Technical Expertise in Policing:** Developed over 20 programs to aid in police work, demonstrating a strong technical acumen and innovative approach to policing. Proficient in Python programming and data analysis. Finalist and People's Choice Award winner at the 2022 Intel DevCup, where I developed a device for real-time detection of security threats and automatic protective measures.
+- **Distinguished Instructor and Speaker:** Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Demonstrated ability to share knowledge and expertise with others in the field.
+- **Recognized Roles:** Acknowledged as a Senior Tech Crime Investigator, Crime Intelligence Analyst, and Class Representative of the 7th Manager Class at Taiwan AI Academy, showcasing leadership and expertise in both technical and investigative domains.
 
 ## Work History
 
@@ -23,6 +25,7 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - Engaging in team discussions to resolve issues and apply best practices.
 - Demonstrating strong sense of self-motivation and personal responsibility, with proven ability to learn quickly and adapt to new situations.
 - Passionate about learning and committed to continuous improvement, providing support and guidance in team setting.
+- Nominated for the 2023 "National Criminal Technology Investigation Model" award, recognizing my innovative use of technology in crime investigation and my commitment to improving investigative efficiency. The results will be announced in September, 2023.
 
 **Detective**, Wuri Precinct, Taichung City Police Department , Taichung, Taiwan (2011-2020)
 
@@ -30,13 +33,7 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - Served as primary officer responsible for all fraud-related cases in Wuri Precinct, managing, planning, and compiling performance statistics. Developed programs to standardize and streamline process of handling fraud cases, ensuring no critical details were overlooked and facilitating analysis.
 - Automated collection and analysis of latest fraud case data using self-written crawler programs, which were then handed over to rotating officers for immediate investigation, resulting in significant improvements in efficiency and effectiveness.
 - Took charge of all criminal cases within my jurisdiction, successfully solving numerous major criminal cases, including three homicide cases, two firearm cases, multiple fraud and gambling group cases, and a series of high-profile burglaries targeting luxury homes.
-
-**Police Officer**, Wuri Precinct, Taichung City Police Department , Taichung, Taiwan (2007-2011)
-
-- Conducted regular community patrols and traffic management to maintain law and order.
-- Served as primary officer responsible for all fraud-related cases in Wuri Precinct, managing, planning, and compiling performance statistics. Developed programs to standardize and streamline process of handling fraud cases, ensuring no critical details were overlooked and facilitating analysis.
-- Automated collection and analysis of latest fraud case data using self-written crawler programs, which were then handed over to rotating officers for immediate investigation, resulting in significant improvements in efficiency and effectiveness.
-- Took charge of all criminal cases within my jurisdiction, successfully solving numerous major criminal cases, including three homicide cases, two firearm cases, multiple fraud and gambling group cases, and a series of high-profile burglaries targeting luxury homes.
+- Recognized for exceptional performance in the criminal responsibility division, earning the "Outstanding Criminal Responsibility Area" award for my dedication and results-driven approach to law enforcement.
 
 **Police Officer**, Wuri Precinct, Taichung City Police Department, Taichung City, Taiwan (2007-2011)
 - Successfully apprehended a suspect in a high-speed chase by strategically firing 8 shots from my service weapon to prevent the suspect's vehicle from escaping in the wrong direction. This immediate action ensured public safety and resulted in no injuries.
@@ -72,10 +69,6 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - Taiwan AI Academy CERTIFICATE
 - Completion Certificate for the 2022 Cybersecurity Elite Course by the Cybersecurity Center of Excellence (CCoE) Planning and Construction Project
 
-## Awards
-
-- Best Popularity Award, Intel DevCup (2022)
-
 ## Personal Details
 
 - Date of Birth: December 29, 1986
@@ -84,6 +77,16 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 
 - Native in Mandarin
 - Proficient in English with strong listening skills, currently improving speaking and writing abilities.
+
+## My Achievements
+
+Here are some photos of my achievements, including news appearances, awards, and speaking engagements.
+
+| Photo | Description |
+|:-----:|:----------- |
+| ![News Appearance](https://your-image-url-1.jpg) | Best Popularity Award, Intel DevCup (2022) |
+| ![Award Ceremony](https://your-image-url-2.jpg) | Receiving an award for my contributions to policing. |
+| ![Speaking Engagement](https://your-image-url-3.jpg) | Speaking at a conference about the role of technology in modern policing. |
 
 ---
 
