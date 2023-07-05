@@ -87,8 +87,6 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 
 Here are some photos of my achievements, including news appearances, awards, and speaking engagements.
 
-
-
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award.jpg" width = "200" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award_1.jpg" width = "200" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> |
 |:-:|:-:|
 | Best Popularity Award, Intel DevCup (2022) |
