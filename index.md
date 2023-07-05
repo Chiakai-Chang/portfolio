@@ -1,6 +1,82 @@
-# Chiakai's Portfolio
+![Chia-Kai Chang](https://chiakai-chang.github.io/tempHTML/img/Chiakai.jpg)
+
+# Chia-Kai Chang
+
+## Summary
+
+Experienced police officer with over 15 years of service in the Taichung City Police Department. Proven track record in solving major criminal cases, including homicides. Skilled in digital forensics and programming, with a strong focus on using technology to improve policing efficiency. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats. Currently seeking to bring my unique blend of policing experience and technical expertise to an international policing role.
+
+- **15+ Years of Policing Experience:** Extensive experience in criminal investigation, evidence collection, and team leadership.
+- **Major Case Experience:** Solved numerous high-profile cases, including homicides.
+- **Technical Expertise in Policing:** Developed over 20 programs to aid in police work, demonstrating a strong technical acumen and innovative approach to policing. Proficient in Python programming and data analysis. Finalist and People's Choice Award winner at the 2022 Intel DevCup, where I developed a device for real-time detection of security threats and automatic protective measures.
+
+## Work History
+
+**Detective Sergeant**, Taichung City Police Department Criminal Investigation Corps, Taichung, Taiwan (2020-Present)
+
+- Maintaining and managing license plate recognition system, coordinating with outsourced vendors to ensure seamless operation.
+- Leading research and development of new technologies that aid in crime investigation, applying them to real-world cases.
+- Built and enhanced complex cases and investigations by assisting with large-scale data collection, organization and analysis.
+- Conducting online intelligence gathering, including Open Source Intelligence (OSINT), and utilizing it for case investigations.
+- Performing digital forensics, including analysis and processing of complex data sets, using advanced querying, visualization, and analytics tools.
+- Assisting in cybersecurity incident investigations, creating detailed logical process notes, and developing forensic reports to support cyber investigations.
+- Developing software to alleviate investigative burden on colleagues, including Facebook friend organization tool, JSON data collation tool, AWS IP verification tool, geolocation tool, and more, totaling over 20 different programs.
+- Engaging in team discussions to resolve issues and apply best practices.
+- Demonstrating strong sense of self-motivation and personal responsibility, with proven ability to learn quickly and adapt to new situations.
+- Passionate about learning and committed to continuous improvement, providing support and guidance in team setting.
+
+**Detective Sergeant**, Wuri Precinct, Taichung City Police Department , Taichung, Taiwan (2007-2020)
+
+- Conducted regular community patrols and traffic management to maintain law and order.
+- Served as primary officer responsible for all fraud-related cases in Wuri Precinct, managing, planning, and compiling performance statistics. Developed programs to standardize and streamline process of handling fraud cases, ensuring no critical details were overlooked and facilitating analysis.
+- Automated collection and analysis of latest fraud case data using self-written crawler programs, which were then handed over to rotating officers for immediate investigation, resulting in significant improvements in efficiency and effectiveness.
+- Took charge of all criminal cases within my jurisdiction, successfully solving numerous major criminal cases, including three homicide cases, two firearm cases, multiple fraud and gambling group cases, and a series of high-profile burglaries targeting luxury homes.
+
+## Education
+
+* Master of Science: Information And Communication For Technology Crime 
+  National Yang Ming Chiao Tung University, Hsinchu City,
+  Expected in September 2024
+ 
+* Associate of Applied Science: Administrative Policing And Law Enforcement 
+  Taiwan Police College, Taipei City,
+  June 2007
+
+## Skills
+
+- Criminal Investigation
+- Evidence Collection
+- Digital Forensics
+- Cybersecurity
+- Python Programming
+- Data Analysis
+
+## Certifications
+
+- Certificate of Completion for the Initial, Intermediate, and Advanced Courses in Technological Investigation Talent Enhancement Training by the National Police Agency, Ministry of the Interior, Taiwan
+- Certificate of Completion for the Initial and Advanced Crime Intelligence Analysis Courses from the National Police Agency, Ministry of the Interior, Taiwan
+- Google Data Analytics Specialization
+- Google IT Support Specialization
+- Microsoft Certified: Azure AI Fundamentals
+- Taiwan AI Academy CERTIFICATE
+- Completion Certificate for the 2022 Cybersecurity Elite Course by the Cybersecurity Center of Excellence (CCoE) Planning and Construction Project
+
+## Awards
+
+- Best Popularity Award, Intel DevCup (2022)
+
+## Personal Details
+
+- Date of Birth: December 29, 1986
+
+## Languages
+
+- Native in Mandarin
+- Proficient in English with strong listening skills, currently improving speaking and writing abilities.
 
 ---
+
+# Chiakai’s Portfolio
 
 ## Various Helper Programs Developed with Care (Packaged as .exe for Use)
 
@@ -154,8 +230,6 @@
       * ![](https://chiakai-chang.github.io/tempHTML/img/challenge_1.gif)
 
 ---
-
-Here is my translation for the provided text:
 
 # Chiakai's Data Analysis Showcase
 * ## Simulated "Change Trends in Gaming Hotspots in Taichung Area" Map
