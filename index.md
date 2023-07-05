@@ -111,8 +111,7 @@ Here are some photos of my achievements, including news appearances, awards, and
 | **Digital Resume System for Seized Evidence at Crime Scenes, 2022** | **Smart On-Board Machine, 2022** |
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_EvidenceDigitalHistorySystem.jpg" width = "400" alt="Digital Resume System for Seized Evidence at Crime Scenes, 2022" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_SmartVehicle-MountedComputerSystem.jpg" width = "400" alt="Smart On-Board Machine, 2022" align=center /> |
-| I contributed to the development of the Digital Resume System for Seized Evidence at Crime Scenes, another pioneering system in Taiwan. This system was also showcased at the 'Smart City Summit & Expo' in 2022.
- | I also contributed to the development of the Smart On-Board Machine, a pioneering system in Taiwan. This system was invited to be exhibited at the 'Smart City Summit & Expo' in 2022. |
+| I contributed to the development of the Digital Resume System for Seized Evidence at Crime Scenes, another pioneering system in Taiwan. This system was also showcased at the 'Smart City Summit & Expo' in 2022. | I also contributed to the development of the Smart On-Board Machine, a pioneering system in Taiwan. This system was invited to be exhibited at the 'Smart City Summit & Expo' in 2022. |
 
 | [【Next P.AI】AI x Police Safety Protection – Project 0822](https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/) | **Best Popularity Award, Intel DevCup (2022)** |
 |:-:|:-:|
