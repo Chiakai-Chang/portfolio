@@ -18,26 +18,6 @@
   * It also integrates online OSINT resources and automatically completes the IP whois query work.
   * [![](https://chiakai-chang.github.io/tempHTML/img/PTT_Crawler_ByUser.jpg)](https://github.com/Chiakai-Chang/PTT_Crawler_ByUser)
 
-* ## [Good Search for Latitude/Longitude/Address](https://github.com/Chiakai-Chang/location_to_html):
-  * A program that helps mark related latitudes and longitudes on the map, provide batch address to latitude and longitude functions, and produce portable map HTML files for information sharing and analysis.
-  * It's especially useful for analyzing large amounts of data, such as surveillance locations, car travel records, IP communications, and addresses.
-  * [![](https://chiakai-chang.github.io/tempHTML/img/location_to_html.jpg)](https://github.com/Chiakai-Chang/location_to_html)
-
-* ## [ATM Transaction Data Automatic Query and Compilation Helper](https://github.com/Chiakai-Chang/varityTask):
-  * A tool that automatically queries and compiles ATM transaction data, saving time and effort for colleagues.
-  * [![](https://chiakai-chang.github.io/tempHTML/img/AtmDataWash.jpg)](https://github.com/Chiakai-Chang/varityTask/tree/main/atmDataWash)
-
-'''
-* ## [Massive Keyword Matcher](https://github.com/Chiakai-Chang/BigKeywordsMatcher)
-  * This project addresses the tedious manual task of matching a set of keyword IDs against a large number of cases. This tool facilitates automated batch comparison and filtering of numerous cases using bulk keyword IDs, significantly reducing manual effort and time.
-  * For further details, refer to the tutorial: [User Guide](https://drive.google.com/file/d/1YeoV7mjYXlExavfmFpZu_emsYBqrIzWC/view?usp=sharing)
-  * [![](https://chiakai-chang.github.io/tempHTML/img/BigKeywordsMatcher.jpg)](https://github.com/Chiakai-Chang/BigKeywordsMatcher)
-
-* ## [Facebook Data Breach Parser](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
-  * In 2019, personal details of over 2.67 billion Facebook users, including account names, phone numbers, and names were leaked online. This tool assists in searching the leaked data based on keyword queries.
-  * To prevent misuse, the application is designed to work within the internal network of the Taichung City Police Department and requires a login on the forensics platform. All queries are logged for transparency.
-  * [![](https://chiakai-chang.github.io/tempHTML/img/fbLeakDataParser.jpg)](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
-
 * ## [Taichung Surveillance Camera Filter & Downloader](https://github.com/Chiakai-Chang/AutoCamDownloader)
   * This project aims to resolve several issues encountered during the retrieval of surveillance footage, such as the requirement to install multiple web components for viewing or downloading footage, inability to quickly scroll through history, wasted time waiting for downloads, and manual location of cameras on GIS maps.
   * With this tool, you can select the location of an incident, specify the scope and time period for review, and automatically download surveillance footage on a large scale, easing the workload considerably.
@@ -60,6 +40,24 @@
   * With this program, these challenges are substantially alleviated. It automatically calculates fraud withdrawal variations, creates concise summary reports that are automatically sent to the LINE group for informational purposes, and generates templates for required official documents. This automation significantly reduces the manual workload, thus freeing up officer time and making it more manageable for substitutes who may be unfamiliar with the complexities of the task.
   * [![](https://chiakai-chang.github.io/tempHTML/img/fraudDrawDataHandler.jpg)](https://github.com/Chiakai-Chang/CarHandDataManager)
 
+* ## [Good Search for Latitude/Longitude/Address](https://github.com/Chiakai-Chang/location_to_html):
+  * A program that helps mark related latitudes and longitudes on the map, provide batch address to latitude and longitude functions, and produce portable map HTML files for information sharing and analysis.
+  * It's especially useful for analyzing large amounts of data, such as surveillance locations, car travel records, IP communications, and addresses.
+  * [![](https://chiakai-chang.github.io/tempHTML/img/location_to_html.jpg)](https://github.com/Chiakai-Chang/location_to_html)
+
+* ## [ATM Transaction Data Automatic Query and Compilation Helper](https://github.com/Chiakai-Chang/varityTask):
+  * A tool that automatically queries and compiles ATM transaction data, saving time and effort for colleagues.
+  * [![](https://chiakai-chang.github.io/tempHTML/img/AtmDataWash.jpg)](https://github.com/Chiakai-Chang/varityTask/tree/main/atmDataWash)
+
+* ## [Massive Keyword Matcher](https://github.com/Chiakai-Chang/BigKeywordsMatcher)
+  * This project addresses the tedious manual task of matching a set of keyword IDs against a large number of cases. This tool facilitates automated batch comparison and filtering of numerous cases using bulk keyword IDs, significantly reducing manual effort and time.
+  * For further details, refer to the tutorial: [User Guide](https://drive.google.com/file/d/1YeoV7mjYXlExavfmFpZu_emsYBqrIzWC/view?usp=sharing)
+  * [![](https://chiakai-chang.github.io/tempHTML/img/BigKeywordsMatcher.jpg)](https://github.com/Chiakai-Chang/BigKeywordsMatcher)
+
+* ## [Facebook Data Breach Parser](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
+  * In 2019, personal details of over 2.67 billion Facebook users, including account names, phone numbers, and names were leaked online. This tool assists in searching the leaked data based on keyword queries.
+  * To prevent misuse, the application is designed to work within the internal network of the Taichung City Police Department and requires a login on the forensics platform. All queries are logged for transparency.
+  * [![](https://chiakai-chang.github.io/tempHTML/img/fbLeakDataParser.jpg)](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
 
 ## Diligently developed various helper programs (Ready to use in Colab, click on the program name to open)
 * ## [Facebook Friends Organizer](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
