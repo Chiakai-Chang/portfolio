@@ -11,7 +11,7 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 
 ## Work History
 
-**Detective Sergeant**, Taichung City Police Department Criminal Investigation Corps, Taichung, Taiwan (2020-Present)
+**Detective**, Taichung City Police Department Criminal Investigation Corps, Taichung, Taiwan (2020-Present)
 
 - Maintaining and managing license plate recognition system, coordinating with outsourced vendors to ensure seamless operation.
 - Leading research and development of new technologies that aid in crime investigation, applying them to real-world cases.
@@ -24,12 +24,24 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - Demonstrating strong sense of self-motivation and personal responsibility, with proven ability to learn quickly and adapt to new situations.
 - Passionate about learning and committed to continuous improvement, providing support and guidance in team setting.
 
-**Detective Sergeant**, Wuri Precinct, Taichung City Police Department , Taichung, Taiwan (2007-2020)
+**Detective**, Wuri Precinct, Taichung City Police Department , Taichung, Taiwan (2011-2020)
 
 - Conducted regular community patrols and traffic management to maintain law and order.
 - Served as primary officer responsible for all fraud-related cases in Wuri Precinct, managing, planning, and compiling performance statistics. Developed programs to standardize and streamline process of handling fraud cases, ensuring no critical details were overlooked and facilitating analysis.
 - Automated collection and analysis of latest fraud case data using self-written crawler programs, which were then handed over to rotating officers for immediate investigation, resulting in significant improvements in efficiency and effectiveness.
 - Took charge of all criminal cases within my jurisdiction, successfully solving numerous major criminal cases, including three homicide cases, two firearm cases, multiple fraud and gambling group cases, and a series of high-profile burglaries targeting luxury homes.
+
+**Police Officer**, Wuri Precinct, Taichung City Police Department , Taichung, Taiwan (2007-2011)
+
+- Conducted regular community patrols and traffic management to maintain law and order.
+- Served as primary officer responsible for all fraud-related cases in Wuri Precinct, managing, planning, and compiling performance statistics. Developed programs to standardize and streamline process of handling fraud cases, ensuring no critical details were overlooked and facilitating analysis.
+- Automated collection and analysis of latest fraud case data using self-written crawler programs, which were then handed over to rotating officers for immediate investigation, resulting in significant improvements in efficiency and effectiveness.
+- Took charge of all criminal cases within my jurisdiction, successfully solving numerous major criminal cases, including three homicide cases, two firearm cases, multiple fraud and gambling group cases, and a series of high-profile burglaries targeting luxury homes.
+
+**Police Officer**, Wuri Precinct, Taichung City Police Department, Taichung City, Taiwan (2007-2011)
+- Successfully apprehended a suspect in a high-speed chase by strategically firing 8 shots from my service weapon to prevent the suspect's vehicle from escaping in the wrong direction. This immediate action ensured public safety and resulted in no injuries.
+- Managed security and civil defense operations, representing the Taichung County Police Department in a department-wide performance review, where I achieved a commendable third-place ranking.
+- Consistently demonstrated excellent performance in annual evaluations.
 
 ## Education
 
