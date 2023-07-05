@@ -1,5 +1,7 @@
 # Chiakai's Portfolio
 
+---
+
 ## Various Helper Programs Developed with Care (Packaged as .exe for Use)
 
 * ## [AI Intelligent Code Identification Helper](https://github.com/Chiakai-Chang/CodeForensicsOnScene):
@@ -59,7 +61,9 @@
   * To prevent misuse, the application is designed to work within the internal network of the Taichung City Police Department and requires a login on the forensics platform. All queries are logged for transparency.
   * [![](https://chiakai-chang.github.io/tempHTML/img/fbLeakDataParser.jpg)](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
 
-## Diligently developed various helper programs (Ready to use in Colab, click on the program name to open)
+---
+
+## Various Helper Programs Developed with Care  (Ready to use in Colab, click on the program name to open)
 * ## [Facebook Friends Organizer](https://colab.research.google.com/drive/1JCgq0qmmsAtfuICuyk_CciQVjgSfKZ33?usp=sharing)
    * Please refer to the tutorial: [User Guide](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
    * Organize a large amount of Facebook comments or likes information that was difficult to manually compile in the past, and use it for "intersection analysis" to catch key suspects.
