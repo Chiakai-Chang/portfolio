@@ -112,7 +112,7 @@ Here are some photos of my achievements, including news appearances, awards, and
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_EvidenceDigitalHistorySystem.jpg" width = "400" alt="Digital Resume System for Seized Evidence at Crime Scenes, 2022" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_SmartVehicle-MountedComputerSystem.jpg" width = "400" alt="Smart On-Board Machine, 2022" align=center /> |
 | I contributed to the development of the Digital Resume System for Seized Evidence at Crime Scenes, another pioneering system in Taiwan. This system was also showcased at the 'Smart City Summit & Expo' in 2022. | I also contributed to the development of the Smart On-Board Machine, a pioneering system in Taiwan. This system was invited to be exhibited at the 'Smart City Summit & Expo' in 2022. |
 
-| Being invited for the Crime Intelligence Analysis course at the National Police Agency | Being invited as a lecturer for the Crime Intelligence Analysis course, 2022 |
+| **Being invited for the Crime Intelligence Analysis course at the National Police Agency** | **Being invited for the Crime Intelligence Analysis course at the National Police Agency** |
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_invite.jpg" width = "400" alt="Being invited for the crime intelligence analysis course" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_photo.jpg" width = "400" alt="Crime intelligence analysis course" align=center /> |
 
