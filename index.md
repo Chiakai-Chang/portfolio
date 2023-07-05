@@ -40,7 +40,6 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - Engaging in team discussions to resolve issues and apply best practices.
 - Demonstrating strong sense of self-motivation and personal responsibility, with proven ability to learn quickly and adapt to new situations.
 - Passionate about learning and committed to continuous improvement, providing support and guidance in team setting.
-- Nominated for the 2023 "National Criminal Technology Investigation Model" award, recognizing my innovative use of technology in crime investigation and my commitment to improving investigative efficiency. The results will be announced in September, 2023.
 
 **Detective**, Wuri Precinct, Taichung City Police Department , Taichung, Taiwan (2011-2020)
 
@@ -112,6 +111,10 @@ Here are some photos of my achievements, including news appearances, awards, and
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_EvidenceDigitalHistorySystem.jpg" width = "400" alt="Digital Resume System for Seized Evidence at Crime Scenes, 2022" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_SmartVehicle-MountedComputerSystem.jpg" width = "400" alt="Smart On-Board Machine, 2022" align=center /> |
 | I contributed to the development of the Digital Resume System for Seized Evidence at Crime Scenes, another pioneering system in Taiwan. This system was also showcased at the 'Smart City Summit & Expo' in 2022. | I also contributed to the development of the Smart On-Board Machine, a pioneering system in Taiwan. This system was invited to be exhibited at the 'Smart City Summit & Expo' in 2022. |
+
+| Being invited for the Crime Intelligence Analysis course at the National Police Agency | Being invited as a lecturer for the Crime Intelligence Analysis course, 2022 |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_invite.jpg" width = "400" alt="Being invited for the crime intelligence analysis course" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_photo.jpg" width = "400" alt="Crime intelligence analysis course" align=center /> |
 
 | [【Next P.AI】AI x Police Safety Protection – Project 0822](https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/) | **Best Popularity Award, Intel DevCup (2022)** |
 |:-:|:-:|
