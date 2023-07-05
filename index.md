@@ -117,7 +117,33 @@ Here are some photos of my achievements, including news appearances, awards, and
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award_1.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> |
 
-## 
+## My Programming Skills
+
+### Programming Languages:
+- Proficient in Python for data analysis, web scraping, and software development.
+- Familiar with CMD, BASH, and POWERSHELL for digital forensics.
+
+### Tools:
+- **IDEs:**
+  * Regularly use Jupyter Lab, Colab, and Spyder for development. Also have experience with Visual Studio and Visual Studio Code.
+- **Packages:**
+  * Proficient in using packages such as requests, bs4, selenium, pandas, numpy, sklearn, pytorch, matplotlib, pyinstaller, PySimpleGUI, OpenCV, and Pillow for various tasks including web scraping, data analysis, software packaging, GUI design, and image processing.
+- **Databases:**
+  * Experienced in using SQLite for standalone databases and proficient in using SQL, Python, and Excel for data retrieval and analysis in MsSQL, MySQL databases.
+
+### Concepts:
+- Transitioned from function-oriented programming to object-oriented programming (OOP) based on project requirements and time constraints.
+- Developed various applications including standalone case management systems, desktop applications for identity verification and operation logging, standalone applications for online version checking and updating, Telegram bot interactive applications, and applications that use LINE Notify for result notifications.
+
+### Environment:
+- Comfortable with Windows and Linux operating systems.
+- Proficient in using Anaconda, Miniconda, and Venv for creating virtual environments.
+- Regularly use Git and GitHub for version control.
+
+### Architecture:
+- Design software with a user-oriented approach, aiming for one-click completion whenever possible. If not, clear prompts are provided for each operation.
+- For ease of distribution and updates, design software to include only necessary frameworks, with frequently changing parts dynamically fetched from the internet.
+- Package software primarily in 32-bit to ensure compatibility with both 32-bit and 64-bit systems.
 
 ## Various Helper Programs Developed with Care (Packaged as .exe for Use)
 
