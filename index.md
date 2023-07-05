@@ -1,5 +1,5 @@
 # Chia-Kai Chang 
- <img src="https://chiakai-chang.github.io/tempHTML/img/Chiakai.jpg" width = "100" alt="Chiakais portrait" align=center />
+ <img src="https://chiakai-chang.github.io/tempHTML/img/Chiakai.jpg" width = "200" alt="Chiakais portrait" align=center />
 
 ## Summary
 
