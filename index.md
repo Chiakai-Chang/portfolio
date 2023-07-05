@@ -1,5 +1,5 @@
 # Chia-Kai Chang 
-![](https://chiakai-chang.github.io/tempHTML/img/Chiakai.jpg =100)
+ <img src="https://chiakai-chang.github.io/tempHTML/img/Chiakai.jpg" width = "100" alt="Chiakais portrait" align=center />
 
 ## Summary
 
