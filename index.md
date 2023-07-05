@@ -124,12 +124,10 @@ Here are some photos of my achievements, including news appearances, awards, and
 - Familiar with CMD, BASH, and POWERSHELL for digital forensics.
 
 ### Tools:
-- **IDEs:**
-  * Regularly use Jupyter Lab, Colab, and Spyder for development. Also have experience with Visual Studio and Visual Studio Code.
-- **Packages:**
-  * Proficient in using packages such as requests, bs4, selenium, pandas, numpy, sklearn, pytorch, matplotlib, pyinstaller, PySimpleGUI, OpenCV, and Pillow for various tasks including web scraping, data analysis, software packaging, GUI design, and image processing.
-- **Databases:**
-  * Experienced in using SQLite for standalone databases and proficient in using SQL, Python, and Excel for data retrieval and analysis in MsSQL, MySQL databases.
+- **IDEs:** Regularly use Jupyter Lab, Colab, and Spyder for development. Also have experience with Visual Studio and Visual Studio Code.
+- **Packages:** Proficient in using packages such as requests, bs4, selenium, pandas, numpy, sklearn, pytorch, matplotlib, pyinstaller, PySimpleGUI, OpenCV, and Pillow for various tasks including web scraping, data analysis, software packaging, GUI design, and image processing.
+- **Databases:** Experienced in using SQLite for standalone databases and proficient in using SQL, Python, and Excel for data retrieval and analysis in MsSQL, MySQL databases.
+- **Security:** Skilled in using pyinstaller for software packaging, tinyaes for encryption, and digital signatures using personal certificates for software authentication.
 
 ### Concepts:
 - Transitioned from function-oriented programming to object-oriented programming (OOP) based on project requirements and time constraints.
@@ -143,7 +141,7 @@ Here are some photos of my achievements, including news appearances, awards, and
 ### Architecture:
 - Design software with a user-oriented approach, aiming for one-click completion whenever possible. If not, clear prompts are provided for each operation.
 - For ease of distribution and updates, design software to include only necessary frameworks, with frequently changing parts dynamically fetched from the internet.
-- Package software primarily in 32-bit to ensure compatibility with both 32-bit and 64-bit systems.
+- Previously packaged software in 32-bit to ensure compatibility with both 32-bit and 64-bit systems during the Windows XP and Windows 7 era. Now, with the prevalence of 64-bit systems, software is packaged in 64-bit.
 
 ## Various Helper Programs Developed with Care (Packaged as .exe for Use)
 
