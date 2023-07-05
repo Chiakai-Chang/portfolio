@@ -14,7 +14,9 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - **Distinguished Instructor and Speaker:**
   * Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Demonstrated ability to share knowledge and expertise with others in the field.
 - **Recognized Roles:**
-  * Acknowledged as a Senior Tech Crime Investigator, Crime Intelligence Analyst, and Class Representative of the 7th Manager Class at Taiwan AI Academy, showcasing leadership and expertise in both technical and investigative domains.
+  * Senior Tech Crime Investigator.
+  * Crime Intelligence Analyst.
+  * Class Representative of the 7th Manager Class at Taiwan AI Academy.
 
 ## Work History
 
