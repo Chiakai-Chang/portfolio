@@ -126,3 +126,51 @@
    * Includes:
       * Caesar encryption
       * Binary conversion (commonly used in the information security community)"
+
+---
+
+# Chiakai's Mixed Reality Mini-Projects
+* ## First-Person Simulation Training - Conducting Game Theoretic/Fraud Crime Scene Investigation
+  * [Download Link](https://drive.google.com/file/d/1JnpmDLWOaB8Fd9oq5cz4DAi-PKE2bhEJ/view?usp=sharing)
+  * Features:
+    * A first of its kind in Taiwan, "First-Person Perspective - Fraud Crime Scene Investigation Simulation Training" offers a unique and immersive training method, incorporating gaming elements and first-person perspective. Different from traditional training styles, this simulation allows users to learn while playing. Even for newcomers, this simulation provides hands-on experience in investigating crime scenes, finding clues, interrogating foreign-language suspects, reacting to live scenarios, and analyzing evidence. Most importantly, it is not limited to game theory/fraud cases and can be applied to different crime scenarios and roles to comprehensively train investigative skills and adaptive abilities, strengthening overall investigative capabilities.
+    * Additionally, the game can utilize the "AI Code Recognition Assistant," an AI-based tool designed to quickly identify suspicious programs. It is the first tool in the country that can tell you what a program does and what illegal activities it might be involved in, thus enhancing digital forensic capabilities at crime scenes.
+  * Current available experiences:
+    * Realistically designed environments and character interactions based on actual experiences
+      * ![image](https://chiakai-chang.github.io/tempHTML/img/always_smoke.gif)
+      * ![image](https://chiakai-chang.github.io/tempHTML/img/always_firstday.gif)  
+    * Finding and piecing together minor clues at the scene
+      * ![image](https://chiakai-chang.github.io/tempHTML/img/little_clue.gif)  
+      * ![image](https://chiakai-chang.github.io/tempHTML/img/burnt_paper.gif)  
+    * AI characters capable of real English dialogue
+      * Linked with GPT models, facilitating natural, realistic voice (English) conversations
+      * This character holds key information, requiring the player to simulate police interrogation techniques to obtain it
+      * ![](https://chiakai-chang.github.io/tempHTML/img/challenge_2.gif)
+    * Simulation of obtaining real code, learning how to extract evidence from it, and using it for immediate breakthroughs
+      * Realistically designed code
+      * Interactions extending beyond the game  
+      * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
+  * Screenshots:
+      * ![](https://chiakai-chang.github.io/tempHTML/img/challenge_1.gif)
+
+---
+
+Here is my translation for the provided text:
+
+# Chiakai's Data Analysis Showcase
+* ## Simulated "Change Trends in Gaming Hotspots in Taichung Area" Map
+  * ### [Trend of Heat Intensity Changes in Point Clusters from 2016 to 2020](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html) (Can filter by year, play yearly changes, and accelerate speed)
+    * This project showcases the ability to visualize geospatial data over time.
+    * The heat maps represent the changes in the concentration of gaming hotspots in Taichung, providing clear insights into their development over the years.
+    * This demonstrates an understanding of how to use data to identify patterns and trends in a specific context.
+    * [![](https://chiakai-chang.github.io/tempHTML/img/GBplaceVarifyMap(201601~202012).jpg)](https://chiakai-chang.github.io/tempHTML/GBplaceVarifyMap(201601~202012).html)
+  * ### [Heat Trend Changes from 01/01/2015 to 02/09/2021](https://chiakai-chang.github.io/tempHTML/GBMapTaichung(2020~2021).html) (Can play daily changes, and accelerate speed)
+    * This visualization provides a daily view of the changing intensity of gaming hotspots over several years.
+    * The ability to process and visualize large volumes of data over a long time period reflects a strong aptitude for handling complex data sets and delivering actionable insights.
+    * [![](https://chiakai-chang.github.io/tempHTML/img/GBMapTaichung(2020~2021).jpg)](https://chiakai-chang.github.io/tempHTML/GBMapTaichung(2020~2021).html)
+
+* ## Simulated "Epidemiological Case Activity Trajectory" Map (Can filter clusters)
+  * ### [Simulated Case Activity Trajectory Movement](https://chiakai-chang.github.io/tempHTML/demo1.html) (Can filter devices, play daily changes, and accelerate speed)
+    * This project illustrates the ability to track and visualize individual case activities over time.
+    * This is an example of using data analysis in a public health context, suggesting an ability to apply data analysis skills to a wide range of scenarios.
+    * [![](https://chiakai-chang.github.io/tempHTML/img/demo1.jpg)](https://chiakai-chang.github.io/tempHTML/demo1.html)
