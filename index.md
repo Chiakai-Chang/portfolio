@@ -17,7 +17,8 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - **Distinguished Instructor and Speaker:**
   * Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Demonstrated ability to share knowledge and expertise with others in the field.
 - **AI Achievements in Law Enforcement:**
-  * Developed a "News Release Automatic Generation System" that won first place in the 7th AI Entrepreneurship Innovation Competition at Taiwan AI Academy. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats.
+  * Developed a "News Release Automatic Generation System" that won **1st** place in the 7th AI Entrepreneurship Innovation Competition at Taiwan AI Academy.
+  * Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats.
 - **Recognized Roles:**
   * Senior Tech Crime Investigator.
   * Crime Intelligence Analyst.
@@ -93,13 +94,21 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 
 Here are some photos of my achievements, including news appearances, awards, and speaking engagements.
 
-| [【Next P.AI】AI x Police Safety Protection – Project 0822](https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/) | **Best Popularity Award, Intel DevCup (2022)** |
-|:-:|:-:|
-| <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award_1.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> |
-
 | **"Outstanding Performance" Medal, 2008** | **"Exemplary Police Officer with 10 Years of Service" Medal, 2018** |
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/2008_Outstanding_Performance_Award.jpg" width = "400" alt="Outstanding Performance Medal, 2008" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/10_year_award.jpg" width = "400" alt="Exemplary Police Officer with 10 Years of Service Medal, 2018" align=center /> |
+
+| **Successfully solved a "Shooting Homicide" case, 2018** | **Successfully dismantled a "Violent Gambling Criminal Organization", 2021** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Solved_shooting_homicide_case.png" width = "400" alt="Successfully solved a Shooting Homicide case, 2018" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Cracked_crime_of_gambling_organization.jpg" width = "400" alt="Successfully dismantled a Violent Gambling Criminal Organization, 2021" align=center /> |
+
+| **Developed a "News Release Automatic Generation System", 2021** | **Won 1st place in the 7th AI Entrepreneurship Innovation Competition** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition.jpg" width = "400" alt="News Release Automatic Generation System" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition_1.jpg" width = "400" alt="Won 1st place in the 7th AI Entrepreneurship Innovation Competition" align=center /> |
+
+| [【Next P.AI】AI x Police Safety Protection – Project 0822](https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/) | **Best Popularity Award, Intel DevCup (2022)** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award_1.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> |
 
 ## 
 
