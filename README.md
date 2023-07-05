@@ -38,7 +38,7 @@
   * This program is an essential tool for officers tasked with managing, processing, and analyzing significant volumes of fraud withdrawal data, a task regularly updated by the Criminal Investigation Bureau every Tuesday and Thursday.
   * Traditionally, officers had to spend late nights on manual data verification and complex calculations to track fraud withdrawal trends within their jurisdictions. This process was labor-intensive and time-consuming.
   * With this program, these challenges are substantially alleviated. It automatically calculates fraud withdrawal variations, creates concise summary reports that are automatically sent to the LINE group for informational purposes, and generates templates for required official documents. This automation significantly reduces the manual workload, thus freeing up officer time and making it more manageable for substitutes who may be unfamiliar with the complexities of the task.
-  * [![](https://chiakai-chang.github.io/tempHTML/img/fraudDrawDataHandler.jpg)](https://github.com/Chiakai-Chang/CarHandDataManager)
+  * [![](https://chiakai-chang.github.io/tempHTML/img/CarHandDataManager.jpg)](https://github.com/Chiakai-Chang/CarHandDataManager)
 
 * ## [Good Search for Latitude/Longitude/Address](https://github.com/Chiakai-Chang/location_to_html):
   * A program that helps mark related latitudes and longitudes on the map, provide batch address to latitude and longitude functions, and produce portable map HTML files for information sharing and analysis.
