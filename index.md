@@ -49,13 +49,11 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 
 ## Education
 
-* Master of Science: Information And Communication For Technology Crime 
-  National Yang Ming Chiao Tung University, Hsinchu City,
-  Expected in September 2024
- 
-* Associate of Applied Science: Administrative Policing And Law Enforcement 
-  Taiwan Police College, Taipei City,
-  June 2007
+**Master of Science in Information and Communication for Technology Crime** (Expected September 2024)
+*National Yang Ming Chiao Tung University, Taiwan* (2022-Present)
+
+**Associate of Applied Science in Administrative Policing and Law Enforcement**
+*Taiwan Police College, Taiwan* (2005-2007)
 
 ## Skills
 
