@@ -1,6 +1,9 @@
 # Chia-Kai Chang 
  <img src="https://chiakai-chang.github.io/tempHTML/img/Chiakai.jpg" width = "200" alt="Chiakais portrait" align=center />
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chiakai-chang-htciu/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Chiakai-Chang)
+
 ## Summary
 
 Experienced police officer with over 15 years of service in the Taichung City Police Department. Proven track record in solving major criminal cases, including homicides. Skilled in digital forensics and programming, with a strong focus on using technology to improve policing efficiency. Recognized as a Senior Tech Crime Investigator, Crime Intelligence Analyst, and Class Representative of the 7th Manager Class at Taiwan AI Academy. Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats. Currently seeking to bring my unique blend of policing experience and technical expertise to an international policing role.
@@ -13,6 +16,8 @@ Experienced police officer with over 15 years of service in the Taichung City Po
   * Developed over 20 programs to aid in police work, demonstrating a strong technical acumen and innovative approach to policing. Proficient in Python programming and data analysis. Finalist and People's Choice Award winner at the 2022 Intel DevCup, where I developed a device for real-time detection of security threats and automatic protective measures.
 - **Distinguished Instructor and Speaker:**
   * Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Demonstrated ability to share knowledge and expertise with others in the field.
+- **AI Achievements in Law Enforcement:**
+  * Developed a "News Release Automatic Generation System" that won first place in the 7th AI Entrepreneurship Innovation Competition at Taiwan AI Academy. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats.
 - **Recognized Roles:**
   * Senior Tech Crime Investigator.
   * Crime Intelligence Analyst.
@@ -73,6 +78,7 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - Microsoft Certified: Azure AI Fundamentals
 - Taiwan AI Academy CERTIFICATE
 - Completion Certificate for the 2022 Cybersecurity Elite Course by the Cybersecurity Center of Excellence (CCoE) Planning and Construction Project
+- For more details on my certifications, please visit my [LinkedIn profile](https://www.linkedin.com/in/chiakai-chang-htciu/).
 
 ## Personal Details
 
@@ -90,6 +96,10 @@ Here are some photos of my achievements, including news appearances, awards, and
 | [【Next P.AI】AI x Police Safety Protection – Project 0822](https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/) | **Best Popularity Award, Intel DevCup (2022)** |
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award_1.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> |
+
+| **"Outstanding Performance" Medal, 2008** | **"Exemplary Police Officer with 10 Years of Service" Medal, 2018** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/2008_Outstanding_Performance_Award.jpg" width = "400" alt="Outstanding Performance Medal, 2008" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/10_year_award.jpg" width = "400" alt="Exemplary Police Officer with 10 Years of Service Medal, 2018" align=center /> |
 
 ## 
 
