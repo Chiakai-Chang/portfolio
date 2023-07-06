@@ -11,6 +11,10 @@
   * results expected in September.
 - **15+ Years of Policing Experience:**
   * Extensive experience in criminal investigation, evidence collection, and team leadership.
+- **Recognized Roles:**
+  * Senior Tech Crime Investigator.
+  * Crime Intelligence Analyst.
+  * Class Representative of the 7th Manager Class at Taiwan AI Academy.
 - **Major Case Experience:**
   * Solved numerous high-profile cases, including homicides.
 - **Technical Expertise in Policing:**
@@ -20,10 +24,6 @@
 - **AI Achievements in Law Enforcement:**
   * Developed a "News Release Automatic Generation System" that won **1st** place in the 7th AI Entrepreneurship Innovation Competition at Taiwan AI Academy.
   * Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats.
-- **Recognized Roles:**
-  * Senior Tech Crime Investigator.
-  * Crime Intelligence Analyst.
-  * Class Representative of the 7th Manager Class at Taiwan AI Academy.
 
 Experienced police officer with over 15 years of service in the Taichung City Police Department. Proven track record in solving major criminal cases, including homicides. Skilled in digital forensics and programming, with a strong focus on using technology to improve policing efficiency. Recognized as a Senior Tech Crime Investigator, Crime Intelligence Analyst, and Class Representative of the 7th Manager Class at Taiwan AI Academy. Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats. Currently seeking to bring my unique blend of policing experience and technical expertise to an international policing role.
 
