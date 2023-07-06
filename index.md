@@ -25,7 +25,7 @@
   * Twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. 
 - **AI Achievements in Law Enforcement:**
   * Developed a "News Release Automatic Generation System" that won **1st** place in the 7th AI Entrepreneurship Innovation Competition at Taiwan AI Academy.
-  * Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats.
+  * Finalist and People's Choice Award winner at the **2022 Intel DevCup** for developing a device for real-time detection of security threats.
 
 Experienced police officer with over 15 years of service in the Taichung City Police Department. Proven track record in solving major criminal cases, including homicides. Skilled in digital forensics and programming, with a strong focus on using technology to improve policing efficiency. Recognized as a Senior Tech Crime Investigator, Crime Intelligence Analyst, and Class Representative of the 7th Manager Class at Taiwan AI Academy. Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats. Currently seeking to bring my unique blend of policing experience and technical expertise to an international policing role.
 
@@ -107,10 +107,10 @@ Here are some photos of my achievements, including news appearances, awards, and
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition.jpg" width = "400" alt="News Release Automatic Generation System" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition_1.jpg" width = "400" alt="Won 1st place in the 7th AI Entrepreneurship Innovation Competition" align=center /> |
 
-| **Digital Resume System for Seized Evidence at Crime Scenes, 2022** | **Smart On-Board Machine, 2022** |
+| **Digital Resume System for Seized Evidence at Crime Scenes, Smart City Summit & Expo, 2022** | **Smart On-Board Machine, Smart City Summit & Expo, 2022** |
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_EvidenceDigitalHistorySystem.jpg" width = "400" alt="Digital Resume System for Seized Evidence at Crime Scenes, 2022" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_SmartVehicle-MountedComputerSystem.jpg" width = "400" alt="Smart On-Board Machine, 2022" align=center /> |
-| I contributed to the development of the Digital Resume System for Seized Evidence at Crime Scenes, another pioneering system in Taiwan. This system was showcased at the 'Smart City Summit & Expo' in 2022. | I also contributed to the development of the Smart On-Board Machine, a pioneering system in Taiwan. This system was also invited to be exhibited at the 'Smart City Summit & Expo' in 2022. |
+| I contributed to the development of the "**Digital Resume System for Seized Evidence at Crime Scenes**", another pioneering system in Taiwan. This system was showcased at the '**Smart City Summit & Expo**' in 2022. | I also contributed to the development of the "**Smart On-Board Machine**", a pioneering system in Taiwan. This system was also invited to be exhibited at the '**Smart City Summit & Expo**' in 2022. |
 
 | **Being invited for the Crime Intelligence Analysis course at the National Police Agency** | **Being invited for the Crime Intelligence Analysis course at the National Police Agency** |
 |:-:|:-:|
