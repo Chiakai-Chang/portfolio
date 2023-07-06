@@ -8,7 +8,7 @@
 ## Summary
 
 - **Nominated for the 2023 "National Model of Criminal Technology Investigation" award**
-  * results expected in September.
+  * Results expected in September.
 - **15+ Years of Policing Experience:**
   * Extensive experience in criminal investigation, evidence collection, and team leadership.
 - **Recognized Roles:**
