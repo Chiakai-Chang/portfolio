@@ -21,7 +21,8 @@
   * Developed over 20 programs to aid in police work.
   * Proficient in Python programming and data analysis.
 - **Distinguished Instructor and Speaker:**
-  * Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. 
+  * Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department.
+  * Twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. 
 - **AI Achievements in Law Enforcement:**
   * Developed a "News Release Automatic Generation System" that won **1st** place in the 7th AI Entrepreneurship Innovation Competition at Taiwan AI Academy.
   * Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats.
