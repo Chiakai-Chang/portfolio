@@ -18,9 +18,10 @@
 - **Major Case Experience:**
   * Solved numerous high-profile cases, including homicides.
 - **Technical Expertise in Policing:**
-  * Developed over 20 programs to aid in police work, demonstrating a strong technical acumen and innovative approach to policing. Proficient in Python programming and data analysis. Finalist and People's Choice Award winner at the 2022 Intel DevCup, where I developed a device for real-time detection of security threats and automatic protective measures.
+  * Developed over 20 programs to aid in police work.
+  * Proficient in Python programming and data analysis.
 - **Distinguished Instructor and Speaker:**
-  * Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Demonstrated ability to share knowledge and expertise with others in the field.
+  * Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. 
 - **AI Achievements in Law Enforcement:**
   * Developed a "News Release Automatic Generation System" that won **1st** place in the 7th AI Entrepreneurship Innovation Competition at Taiwan AI Academy.
   * Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats.
