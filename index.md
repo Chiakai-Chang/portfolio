@@ -7,8 +7,6 @@
 
 ## Summary
 
-Experienced police officer with over 15 years of service in the Taichung City Police Department. Proven track record in solving major criminal cases, including homicides. Skilled in digital forensics and programming, with a strong focus on using technology to improve policing efficiency. Recognized as a Senior Tech Crime Investigator, Crime Intelligence Analyst, and Class Representative of the 7th Manager Class at Taiwan AI Academy. Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats. Currently seeking to bring my unique blend of policing experience and technical expertise to an international policing role.
-
 - **Nominated for the 2023 "National Model of Criminal Technology Investigation" award**
   * results expected in September.
 - **15+ Years of Policing Experience:**
@@ -27,7 +25,9 @@ Experienced police officer with over 15 years of service in the Taichung City Po
   * Crime Intelligence Analyst.
   * Class Representative of the 7th Manager Class at Taiwan AI Academy.
 
-## Work History
+Experienced police officer with over 15 years of service in the Taichung City Police Department. Proven track record in solving major criminal cases, including homicides. Skilled in digital forensics and programming, with a strong focus on using technology to improve policing efficiency. Recognized as a Senior Tech Crime Investigator, Crime Intelligence Analyst, and Class Representative of the 7th Manager Class at Taiwan AI Academy. Regularly served as a seed instructor for cybercrime investigation training at the Taichung City Police Department and twice invited as a lecturer for the crime intelligence analysis course at the National Police Agency, Ministry of the Interior. Finalist and People's Choice Award winner at the 2022 Intel DevCup for developing a device for real-time detection of security threats. Currently seeking to bring my unique blend of policing experience and technical expertise to an international policing role.
+
+## Experience
 
 **Detective**, Taichung City Police Department Criminal Investigation Corps, Taichung, Taiwan (2020-Present)
 
