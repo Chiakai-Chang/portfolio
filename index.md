@@ -1,8 +1,8 @@
 # Chia-Kai Chang 
  <img src="https://chiakai-chang.github.io/tempHTML/img/Chiakai.jpg" width = "200" alt="Chiakais portrait" align=center />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chiakai-chang-htciu/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Chiakai-Chang)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chiakai-chang-htciu/)[https://www.linkedin.com/in/chiakai-chang-htciu/](https://www.linkedin.com/in/chiakai-chang-htciu/)<br>
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Chiakai-Chang)[https://github.com/Chiakai-Chang](https://github.com/Chiakai-Chang)
 
 ## Summary
 
@@ -36,10 +36,7 @@ Experienced police officer with over 15 years of service in the Taichung City Po
 - Conducting online intelligence gathering, including Open Source Intelligence (OSINT), and utilizing it for case investigations.
 - Performing digital forensics, including analysis and processing of complex data sets, using advanced querying, visualization, and analytics tools.
 - Assisting in cybersecurity incident investigations, creating detailed logical process notes, and developing forensic reports to support cyber investigations.
-- Developing software to alleviate investigative burden on colleagues, including Facebook friend organization tool, JSON data collation tool, AWS IP verification tool, geolocation tool, and more, totaling over 20 different programs.
-- Engaging in team discussions to resolve issues and apply best practices.
-- Demonstrating strong sense of self-motivation and personal responsibility, with proven ability to learn quickly and adapt to new situations.
-- Passionate about learning and committed to continuous improvement, providing support and guidance in team setting.
+- Developing software to alleviate investigative burden on colleagues, totaling over 20 different programs.
 
 **Detective**, Wuri Precinct, Taichung City Police Department , Taichung, Taiwan (2011-2020)
 
@@ -110,7 +107,7 @@ Here are some photos of my achievements, including news appearances, awards, and
 | **Digital Resume System for Seized Evidence at Crime Scenes, 2022** | **Smart On-Board Machine, 2022** |
 |:-:|:-:|
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_EvidenceDigitalHistorySystem.jpg" width = "400" alt="Digital Resume System for Seized Evidence at Crime Scenes, 2022" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_SmartVehicle-MountedComputerSystem.jpg" width = "400" alt="Smart On-Board Machine, 2022" align=center /> |
-| I contributed to the development of the Digital Resume System for Seized Evidence at Crime Scenes, another pioneering system in Taiwan. This system was also showcased at the 'Smart City Summit & Expo' in 2022. | I also contributed to the development of the Smart On-Board Machine, a pioneering system in Taiwan. This system was invited to be exhibited at the 'Smart City Summit & Expo' in 2022. |
+| I contributed to the development of the Digital Resume System for Seized Evidence at Crime Scenes, another pioneering system in Taiwan. This system was showcased at the 'Smart City Summit & Expo' in 2022. | I also contributed to the development of the Smart On-Board Machine, a pioneering system in Taiwan. This system was also invited to be exhibited at the 'Smart City Summit & Expo' in 2022. |
 
 | **Being invited for the Crime Intelligence Analysis course at the National Police Agency** | **Being invited for the Crime Intelligence Analysis course at the National Police Agency** |
 |:-:|:-:|
