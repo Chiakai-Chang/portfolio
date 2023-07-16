@@ -153,6 +153,28 @@ Here are some photos of my achievements, including news appearances, awards, and
   * It uses AI to quickly analyze code, identify potential illegal activities, and extract key information.
   * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
 
+* ## Introducing the revamped "[AI Code Analysis Assistant](https://poe.com/CodeInvestigate)"!!
+  * Features:
+    * 1. Implements the latest, fresh out of the oven as of July 13, 2023, advanced AI model Claude 2. It supports 100k-token, theoretically capable of analyzing code up to 100,000 characters long.
+    * 2. Free access to anyone with a Google account.
+    * 3. Incorporates Poe's chatbot interface based on WEB, accessible on PC, Android, and iOS.
+    * 4. Offers the functionality to directly upload code files (like .html, .py, .bat, .sh, .ps1, etc.), eliminating the need for copy-pasting.
+    * 5. After numerous tests, we have designed a prompt that can stably produce professional analysis results, including: 
+      * (a) Detecting contact information in the code.
+      * (b) Identifying login information (username, password) within the code.
+      * (c) Extracting URLs and IP information embedded in the code.
+      * (d) Locating digital certificate information such as Credentials.
+      * (e) Evaluating whether the code is encrypted, and attempting decryption.
+      * (f) Analyzing the active and passive execution scenarios of the code.
+      * (g) Analyzing unique stylistic traits of the code author.
+      * (h) Providing comprehensive judgment.
+      * (i) Suggesting follow-up investigative directions.
+  * Only limitation:
+    * Limited to **30** analyses per day.
+  * Give it a try now!
+    * https://poe.com/CodeInvestigate
+  * ![](https://chiakai-chang.github.io/tempHTML/img/CodeInvestigate.png)
+
 * ## [IPwhois Good Search](https://github.com/Chiakai-Chang/CheckIP):
   * A program that automatically extracts and organizes IPs from large data sets, performs IP Whois queries, and compiles the results into an Excel spreadsheet.
   * It's particularly useful for Taiwanese IPs.
@@ -272,6 +294,26 @@ Here are some photos of my achievements, including news appearances, awards, and
       * Binary conversion (commonly used in the information security community)"
 
 ---
+
+# Chiakai's Educational Game Creations
+  * ## First of its Kind - [AI Simulated Web Reconnaissance Game](https://poe.com/WebCopGame)!
+    * Learn about web reconnaissance techniques through an intriguing detective game.
+    * Features:
+      * Employs the Claude Instant language model.
+        * Outperforms ChatGPT in dialogue relevance, technical comprehension, and code generation.
+        * Offers more user-friendly conversation techniques, making it easier to guide towards specific dialogue directions.
+      * Simply log in with a Google account for unlimited, free use.
+      * Web-based, compatible with PC, Android, and iOS.
+    * Design Principles:
+      * The game provides you with a progressive simulation case, allowing you to leverage web investigation techniques to understand the clues and plot.
+      * Throughout the game, I offer suggestions at different levels. Starting from simple recommendations/descriptions of web elements, I gradually guide you to use devtools for more detailed webpage investigations and JSON analysis.
+      * You will experience a real-life investigative process that requires a combination of web and real-world research, and we attempt to simulate many of the traps and difficulties you might encounter while investigating real cases.
+      * Most importantly, I hope that you learn many practical web investigation skills through this fun game, and these "simulated exercises" truly aid you in your work.
+      * Lastly, I must reiterate, the purpose of this "game" is solely to provide knowledge and discussion about web reconnaissance. It does not condone or teach any illegal or inappropriate behavior.
+    * Give it a try now!
+      * https://poe.com/WebCopGame
+    * Screenshots:
+      * ![](https://chiakai-chang.github.io/tempHTML/img/WebCopGame.png)
 
 # Chiakai's Mixed Reality Mini-Projects
 * ## First-Person Simulation Training - Conducting Game Theoretic/Fraud Crime Scene Investigation
