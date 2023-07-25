@@ -222,11 +222,6 @@ Here are some photos of my achievements, including news appearances, awards, and
   * For further details, refer to the tutorial: [User Guide](https://drive.google.com/file/d/1YeoV7mjYXlExavfmFpZu_emsYBqrIzWC/view?usp=sharing)
   * [![](https://chiakai-chang.github.io/tempHTML/img/BigKeywordsMatcher.jpg)](https://github.com/Chiakai-Chang/BigKeywordsMatcher)
 
-* ## [Facebook Data Breach Parser](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
-  * In 2019, personal details of over 2.67 billion Facebook users, including account names, phone numbers, and names were leaked online. This tool assists in searching the leaked data based on keyword queries.
-  * To prevent misuse, the application is designed to work within the internal network of the Taichung City Police Department and requires a login on the forensics platform. All queries are logged for transparency.
-  * [![](https://chiakai-chang.github.io/tempHTML/img/fbLeakDataParser.jpg)](https://github.com/Chiakai-Chang/2019_FB_Leak_Parser)
-
 ---
 
 ## Various Helper Programs Developed with Care (For Specific Tasks)
