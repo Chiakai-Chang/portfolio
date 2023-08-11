@@ -333,8 +333,8 @@ Here are some photos of my achievements, including news appearances, awards, and
       * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
   * Screenshots:
       * ![](https://chiakai-chang.github.io/tempHTML/img/challenge_1.gif)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XtL8z1A1ziM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  * News:
+      * {% include youtube.html id="XtL8z1A1ziM" %}
 
 ---
 
