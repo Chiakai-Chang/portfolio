@@ -334,7 +334,7 @@ Here are some photos of my achievements, including news appearances, awards, and
   * Screenshots:
       * ![](https://chiakai-chang.github.io/tempHTML/img/challenge_1.gif)
   * News:
-      * {% include youtube.html id="XtL8z1A1ziM" %}
+    {% include youtube.html id="XtL8z1A1ziM" %}
 
 ---
 
