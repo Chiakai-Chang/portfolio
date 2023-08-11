@@ -312,7 +312,6 @@ Here are some photos of my achievements, including news appearances, awards, and
 
 # Chiakai's Mixed Reality Mini-Projects
 * ## First-Person Simulation Training - Conducting Game Theoretic/Fraud Crime Scene Investigation
-  * [Download Link](https://drive.google.com/file/d/1JnpmDLWOaB8Fd9oq5cz4DAi-PKE2bhEJ/view?usp=sharing)
   * Features:
     * A first of its kind in Taiwan, "First-Person Perspective - Fraud Crime Scene Investigation Simulation Training" offers a unique and immersive training method, incorporating gaming elements and first-person perspective. Different from traditional training styles, this simulation allows users to learn while playing. Even for newcomers, this simulation provides hands-on experience in investigating crime scenes, finding clues, interrogating foreign-language suspects, reacting to live scenarios, and analyzing evidence. Most importantly, it is not limited to game theory/fraud cases and can be applied to different crime scenarios and roles to comprehensively train investigative skills and adaptive abilities, strengthening overall investigative capabilities.
     * Additionally, the game can utilize the "AI Code Recognition Assistant," an AI-based tool designed to quickly identify suspicious programs. It is the first tool in the country that can tell you what a program does and what illegal activities it might be involved in, thus enhancing digital forensic capabilities at crime scenes.
