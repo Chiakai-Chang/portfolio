@@ -243,6 +243,16 @@ Here are some photos of my achievements, including news appearances, awards, and
    * Please refer to the tutorial: [User Guide](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
    * Organize a large amount of Facebook comments or likes information that was difficult to manually compile in the past, and use it for "intersection analysis" to catch key suspects.
 
+* ## [IPv6 Format Conversion Tool](https://colab.research.google.com/drive/1we5ASiwmo9hfpVU9fNz0b115R-c0VPL5?usp=sharing)
+   * Given the lengthy representation of IPv6 addresses, there are established "abbreviation rules" as follows:
+     * Rule 1:
+       * Leading zeros in each group can be omitted. If an entire group is zeros, it can be represented by a single '0'. For instance, "0DB8" can be abbreviated as "DB8", and "0000" becomes "0".
+     * Rule 2:
+       * Consecutive groups of zeros can be abbreviated as "::". For example, ":0000:0000:0000:0000:" can be shortened to ":0000:0000:0000::", ":0:0:0:0:", ":0::0:", or "::".
+   * When submitting an IPv6 address, one must input the full 128 bits without omitting any '0', and the alphabetic characters must be in uppercase.
+     * Example: 2001:B400:E2AD:236A:713E:0BF4:804C:1573
+   * Therefore, I developed this tool to assist in converting IPv6 addresses to the required format for submission.
+
 * ## [Bulk JSON Format Consolidation Helper](https://colab.research.google.com/drive/1w1ApO_p3zh38ocU6jW5di3LXfeQWA3t6?usp=sharing)
   * Most of today's web pages are based on MVC and other architectures. In addition to the displayed web pages, they also use ajax and other methods to access APIs to get data to update the display (mostly in JSON format).
   * Because the aforementioned JSON data is often "richer" than what can be seen on the web page, and the format is easier to organize, so having a helper that can help receive these Json and convert them into an easier-to-operate excel format is a great advantage.
