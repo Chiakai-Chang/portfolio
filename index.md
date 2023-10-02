@@ -243,6 +243,13 @@ Here are some photos of my achievements, including news appearances, awards, and
    * Please refer to the tutorial: [User Guide](https://drive.google.com/file/d/1KI8intBMvUYx2rTMgFi2utGGM6oxEH0i/view)
    * Organize a large amount of Facebook comments or likes information that was difficult to manually compile in the past, and use it for "intersection analysis" to catch key suspects.
 
+* ## [Facebook Comments Organizer Tool](https://colab.research.google.com/drive/1t4xkYcXG0apHxFmjXqOPpR_cHpKwtfxV?usp=sharing)
+   * With the rise in online-related incidents, incidents on Facebook such as fake news, threats, and inappropriate posts are becoming increasingly common. Posts from fake accounts or accounts with limited information, or shared articles from other users, often require a review of comments to look for additional clues.
+   * Manually browsing and then copying and pasting is a tedious process. Therefore, I developed this tool where, given the HTML source code of the "comments section" of a post, it will automatically organize the following information:
+      * 1. Commenter's Name
+      * 2. Commenter's Facebook Link
+      * 3. Comment Content
+
 * ## [IPv6 Format Conversion Tool](https://colab.research.google.com/drive/1we5ASiwmo9hfpVU9fNz0b115R-c0VPL5?usp=sharing)
    * Given the lengthy representation of IPv6 addresses, there are established "abbreviation rules" as follows:
      * Rule 1:
