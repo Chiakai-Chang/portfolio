@@ -7,8 +7,6 @@
 
 ## Summary
 
-- **Nominated for the 2023 "National Model of Criminal Technology Investigation" award**
-  * Results expected in September.
 - **15+ Years of Policing Experience:**
   * Extensive experience in criminal investigation, evidence collection, and team leadership.
 - **Recognized Roles:**
@@ -148,32 +146,32 @@ Here are some photos of my achievements, including news appearances, awards, and
 
 ## Various Helper Programs Developed with Care (Packaged as .exe for Use)
 
-* ## [AI Intelligent Code Identification Helper](https://github.com/Chiakai-Chang/CodeForensicsOnScene):
-  * A tool designed to analyze complex code during on-site software development investigations.
-  * It uses AI to quickly analyze code, identify potential illegal activities, and extract key information.
-  * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
-
-* ## Introducing the revamped "[AI Code Analysis Assistant](https://poe.com/CodeInvestigate)"!!
+* ## Brand New Version! [Code Investigator AI: Your Portable Code Forensics Assistant](https://pse.is/5dt4v2)
+  * ![Cute CODE INVESTIGATOR AI](https://pse.is/5dt4v2)
+  * Developed to address the challenges faced during digital forensic investigations, where complex and incomprehensible code related to 'developers' can inundate the scene, this tool aids investigators by quickly analyzing code and generating reports. It enables swift understanding and assessment of the situation, clarifying whether statements made by individuals at the scene are truthful.
   * Features:
-    * 1. Implements the latest, fresh out of the oven as of July 13, 2023, advanced AI model Claude 2. It supports 100k-token, theoretically capable of analyzing code up to 100,000 characters long.
-    * 2. Free access to anyone with a Google account.
-    * 3. Incorporates Poe's chatbot interface based on WEB, accessible on PC, Android, and iOS.
-    * 4. Offers the functionality to directly upload code files (like .html, .py, .bat, .sh, .ps1, etc.), eliminating the need for copy-pasting.
-    * 5. After numerous tests, we have designed a prompt that can stably produce professional analysis results, including: 
-      * (a) Detecting contact information in the code.
-      * (b) Identifying login information (username, password) within the code.
-      * (c) Extracting URLs and IP information embedded in the code.
-      * (d) Locating digital certificate information such as Credentials.
-      * (e) Evaluating whether the code is encrypted, and attempting decryption.
-      * (f) Analyzing the active and passive execution scenarios of the code.
-      * (g) Analyzing unique stylistic traits of the code author.
-      * (h) Providing comprehensive judgment.
-      * (i) Suggesting follow-up investigative directions.
-  * Only limitation:
-    * Limited to **30** analyses per day.
-  * Give it a try now!
-    * https://poe.com/CodeInvestigate
-  * ![](https://chiakai-chang.github.io/tempHTML/img/CodeInvestigate.png)
+    * 1. Direct upload of code documents (such as .html, .py, .bat, .sh, .ps1, etc.) without the need for copy-pasting.
+    * 2. After several months and N rounds of Prompt Engineering testing, the tool can now analyze code and provide reports on the following:
+      * (1) Identify the programming language used
+      * (2) Summarize the program's functionality
+      * (3) Analyze the execution of the program, function names, and code origins (distinguishing between automated and manual functions and class blocks)
+      * (4) Analyze the style/features of the programmer's writing and variable naming
+      * (5) Attempt to find associated contact information within the code
+      * (6) Attempt to find login credentials within the code (such as usernames, passwords, tokens, and other digital certificates)
+      * (7) Attempt to find network information within the code (such as IP, port, paths)
+      * (8) Analyze whether the code performs any encryption actions
+      * (9) Analyze the code for the presence of any malicious code
+      * (10) Analyze the network interactions of the program (e.g., where it retrieves data from or where it transmits data to)
+      * (11) Analyze if there is any data obfuscation in the program
+      * (12) Analyze for suspicious/illicit activities and provide a summary
+      * (13) Provide investigative recommendations
+  * Give it a try now!!
+  * Currently, there are two versions available:
+    * ### (New!) [Open AI Platform](https://pse.is/5dt4v2)
+      * Based on the GPT-4 turbo language model
+    * ### (Old) [POE Platform](https://poe.com/CodeInvestigate)
+      * Based on the Claude2-100k language model
+      * Limited to 5 queries per day
 
 * ## [IPwhois Good Search](https://github.com/Chiakai-Chang/CheckIP):
   * A program that automatically extracts and organizes IPs from large data sets, performs IP Whois queries, and compiles the results into an Excel spreadsheet.
