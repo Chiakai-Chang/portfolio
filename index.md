@@ -147,7 +147,7 @@ Here are some photos of my achievements, including news appearances, awards, and
 ## Various Helper Programs Developed with Care (Packaged as .exe for Use)
 
 * ## Brand New Version! [Code Investigator AI: Your Portable Code Forensics Assistant](https://pse.is/5dt4v2)
-  * ![Cute CODE INVESTIGATOR AI](https://pse.is/5dt4v2)
+  *  [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
   * Developed to address the challenges faced during digital forensic investigations, where complex and incomprehensible code related to 'developers' can inundate the scene, this tool aids investigators by quickly analyzing code and generating reports. It enables swift understanding and assessment of the situation, clarifying whether statements made by individuals at the scene are truthful.
   * Features:
     * 1. Direct upload of code documents (such as .html, .py, .bat, .sh, .ps1, etc.) without the need for copy-pasting.
