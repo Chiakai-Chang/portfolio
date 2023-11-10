@@ -144,7 +144,7 @@ Here are some photos of my achievements, including news appearances, awards, and
 - For ease of distribution and updates, design software to include only necessary frameworks, with frequently changing parts dynamically fetched from the internet.
 - Previously packaged software in 32-bit to ensure compatibility with both 32-bit and 64-bit systems during the Windows XP and Windows 7 era. Now, with the prevalence of 64-bit systems, software is packaged in 64-bit.
 
-## Various Helper Programs Developed with Care (Packaged as .exe for Use)
+## Advanced Software Solutions Engineer: Custom-Built .exe Applications & Innovative ChatBot Technologies
 
 * ## Brand New Version! [Code Investigator AI: Your Portable Code Forensics Assistant](https://pse.is/5dt4v2)
   *  [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
