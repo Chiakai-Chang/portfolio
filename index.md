@@ -145,6 +145,30 @@ Here are some photos of my achievements, including news appearances, awards, and
 - Previously packaged software in 32-bit to ensure compatibility with both 32-bit and 64-bit systems during the Windows XP and Windows 7 era. Now, with the prevalence of 64-bit systems, software is packaged in 64-bit.
 
 ## Advanced Software Solutions Engineer: Custom-Built .exe Applications & Innovative ChatBot Technologies
+* ## Brand New! [Cross-Border Investigation Assistant](https://chiakai.pse.is/XBIA)
+  * ![Cross-Border Investigation Assistant](https://chiakai-chang.github.io/tempHTML/img/CBIA.png)
+  * Features:
+    * 1. Assists in drafting emails for cross-border case investigations.
+    * 2. Provides reminders about important aspects such as jurisdictional issues.
+    * 3. Offers suggestions when you're unsure about what to investigate.
+    * 4. Capable of generating multilingual outputs in one go.
+    * 5. Uses appropriate terminology and language for international contexts.
+  * Try it out now!!
+  * Examples:
+    <table>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Start.png" width="250" height="250"></td>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Chinese.png" width="250" height="250"></td>
+      </tr>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_Japanese.png" width="250" height="250"></td>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_English.png" width="250" height="250"></td>
+      </tr>
+      <tr>
+        <td><img src="https://chiakai-chang.github.io/tempHTML/img/CBIA_China.png" width="250" height="250"></td>
+        <td></td>
+      </tr>
+    </table>
 
 * ## Brand New Version! [Code Investigator AI: Your Portable Code Forensics Assistant](https://pse.is/5dt4v2)
   *  [![](https://chiakai-chang.github.io/tempHTML/img/Cute_CODE_INVESTIGATOR_AI.png)](https://pse.is/5dt4v2)
