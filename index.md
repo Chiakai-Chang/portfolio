@@ -303,6 +303,11 @@ Here are some photos of my achievements, including news appearances, awards, and
          * This tool can only query IPv4 data
    * This program is downloaded from the official: AWS IP address ranges to compare the latest IP information (Json file, including IPv4 and IPv6), which is the most immediate and accurate data
 
+* ## [IP and CIDR (Subnet) Conversion Assistant](https://colab.research.google.com/drive/1DaA5otkgKxl5jZMMYxu8AJaTclpWdHPE?usp=sharing)
+  * Developed for aiding in criminal investigations by creating IP blacklists to block involved subnets. Manually inputting individual IPs was time-consuming, and sometimes, IP Whois results provided only start and end IPs, requiring conversion to CIDR notation.
+  * I decided to write a program for this conversion, proving much faster than scouring the internet for resources.
+  * The tool automatically enumerates all different subnets in CIDR notation, given only the start and end IP addresses. 
+
 * ## [Address to Latitude and Longitude Helper](https://colab.research.google.com/drive/1BWleXRAN1vM82-k9lz-O78fPMqBZf581?usp=sharing)
   * Use the "National Land Surveying Cloud" electronic map of the Ministry of the Interior to query the complete administrative area (up to the village and neighborhood) and latitude and longitude of any address. 
 
