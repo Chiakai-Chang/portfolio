@@ -20,6 +20,7 @@
 ## Screenshots:
 * ![](https://chiakai-chang.github.io/tempHTML/img/WebCopGame.png)
 
+---
 
 # First-Person Simulation Training - Conducting Game Theoretic/Fraud Crime Scene Investigation
 ## Features:
