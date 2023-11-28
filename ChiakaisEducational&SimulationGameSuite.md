@@ -43,8 +43,5 @@
   * Interactions extending beyond the game  
   * [![](https://chiakai-chang.github.io/tempHTML/img/CFOS.jpg)](https://github.com/Chiakai-Chang/CodeForensicsOnScene)
 
-## Screenshots:
-* ![](https://chiakai-chang.github.io/tempHTML/img/challenge_1.gif)
-
 ## News:
 * [![](https://chiakai-chang.github.io/tempHTML/img/News_PoliceSimulatorGame.png)](https://youtu.be/XtL8z1A1ziM)
