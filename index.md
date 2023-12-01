@@ -31,7 +31,7 @@ November 2007 - October 2020Taichung, Taiwan
 
 ## Projects
 ### Cross-Border Investigation AssistantTaichung City Police Department Criminal Investigation Corps
-https://chiakai.pse.is/XBIA | September 2023 - Present
+[Project Link](https://chiakai.pse.is/XBIA) | September 2023 - Present
 1. Spearheaded the development of the Cross-Border Investigation Assistant, leveraging ChatGPT's MyGPT capabilities to streamline international law enforcement communications.
 2.Created a system that drafts multi-lingual, jurisdiction-aware emails for cross-border case investigations, enhancing global collaboration.
 3. Implemented a feature-rich platform providing investigative guidance, reminders on legal considerations, and tailored investigative suggestions.
@@ -39,7 +39,7 @@ https://chiakai.pse.is/XBIA | September 2023 - Present
 5. Formulated and integrated a specialized lexicon and appropriate language use for international correspondence, ensuring clear and correct communication across borders.
 
 ### Code Investigator AI: Portable Code Forensics ToolTaichung City Police Department Criminal Investigation Corps
-https://chiakai.pse.is/CodeInvestigatorAI | July 2023 - Present
+[Project Link](https://chiakai.pse.is/CodeInvestigatorAI) | July 2023 - Present
 1. Conceptualized and developed a forensic analysis tool to expedite the examination of complex code during criminal investigations, substantially improving investigative efficiency.
 2. Enabled direct upload functionality for various code files, streamlining the analysis process and minimizing manual data handling.
 3. Deployed advanced Prompt Engineering and iterative testing over several months to refine the tool's ability to deliver comprehensive reports on code analysis and programmer behavior.
@@ -47,7 +47,7 @@ https://chiakai.pse.is/CodeInvestigatorAI | July 2023 - Present
 5. Implemented a dual-version system, providing options based on the GPT-4 turbo and Claude2-100k language models to accommodate a broader range of user preferences and query volumes.
 
 ### Chiakai's Educational and Simulation Game SuiteTaichung City Police Department Criminal Investigation Corps
-https://chiakai-chang.github.io/portfolio/ChiakaisEducational&SimulationGameSuite | March 2023 - Present
+[Project Link](https://chiakai-chang.github.io/portfolio/ChiakaisEducational&SimulationGameSuite) | March 2023 - Present
 1. Crafted educational games incorporating the Claude Instant language model to enhance web reconnaissance skills.
 2. Developed Taiwan's first immersive simulation for fraud crime scene investigation, facilitating hands-on skill acquisition through gameplay.
 3. Integrated advanced AI (ChatGPT) to create realistic English conversation simulations, elevating the authenticity of training scenarios.
@@ -55,7 +55,7 @@ https://chiakai-chang.github.io/portfolio/ChiakaisEducational&SimulationGameSuit
 5. Combined virtual exercises with real-life investigative techniques, forming a practical training tool. The project garnered media attention on CTS News on August 11, 2023, showcasing its effectiveness in training police interns for time-sensitive criminal investigations.
 
 ### Comprehensive Analytical Tools for Digital Forensics and Data AnalysisTaichung City Police Department Criminal Investigation Corps
-https://chiakai-chang.github.io/tempHTML/ColabTools | October 2020 - Present
+[Project Link](https://chiakai-chang.github.io/tempHTML/ColabTools) | October 2020 - Present
 1. Developed a suite of Colab-based analytical tools, enhancing digital forensic capabilities within the Taichung City Police Department. These tools streamlined data organization, aiding in complex investigations involving social media and network security.
 2. Orchestrated advanced data parsing tools, including the Facebook Friends and Comments Organizer, to automate the extraction and analysis of substantial social media datasets, crucial for identifying suspects and revealing hidden connections.
 3. Implemented an IPv6 Format Conversion Tool, addressing the challenges of IPv6 address simplification and submission, thus expediting investigative processes and network analysis.
@@ -79,7 +79,7 @@ September 2017 - Present
 5. Personally crafted the Massive Keyword Matcher, a robust system for automating keyword comparison across cases, thus reducing the investigative time and effort required.
 
 ### Business Card as a WebsiteData Science Association (under the guidance of Adms Chung, Co-founder & CEO at MoBagel Inc.)
-https://drive.google.com/file/d/1itaGCoic-lbxOtNIiJUjsR7juHjiIZsZ/view?usp=sharing | April 2023 - July 2023
+[Project Link](https://drive.google.com/file/d/1itaGCoic-lbxOtNIiJUjsR7juHjiIZsZ/view?usp=sharing) | April 2023 - July 2023
 1. Collaborated in a five-member team to engineer a web application service that converts business cards into dynamic web pages. The service processes cards using OCR and object detection to parse textual and graphical data, then leverages ChatGPT and Stable Diffusion to synthesize detailed personal narratives and avatars. Streamlit integration facilitates the assembly of these components into a cohesive online presentation.
 2. Enhanced data extraction precision for business card uploads by developing OCR capabilities and object detection techniques.
 3. Led the integration of ChatGPT and Stable Diffusion, crafting textual content and avatars that personalize user profiles.
@@ -87,7 +87,7 @@ https://drive.google.com/file/d/1itaGCoic-lbxOtNIiJUjsR7juHjiIZsZ/view?usp=shari
 5. Advanced the project's development, achieving adaptability and maintaining operational excellence through regular enhancements and optimizations.
 
 ### Next P.AI - AI-Driven Police Safety SystemTaichung City Police Department Criminal Investigation Corps
-https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/ | October 2022 - December 2022
+[Project Link](https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/) | October 2022 - December 2022
 1. Led the 'Next P.AI' team, representing a new generation of AI-capable police, in the Intel DevCup competition, focusing on enhancing officer safety with AI technology.
 2. Developed a real-time threat detection system, automatically initiating protective measures to mitigate dangerous situations for police officers.
 3. Managed all documentation, registration processes, and majority of material procurement for the project, showcasing leadership and organizational skills.
@@ -95,7 +95,7 @@ https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/ | October 2022 - Decemb
 5. Collaboratively selected, designed, and deployed the AI model, integrating object recognition, human pose estimation, and single-object tracking, culminating in winning the 'People’s Choice Award' with 1908 votes and securing extensive media coverage across 25 outlets.
 
 ### Automated Press Release Generation SystemTaiwan AI Academy, Manager Weekend Training Program, Taichung 7th Term
-https://drive.google.com/file/d/1rXhfer60FrznJaL1VhWcUIJ9XIXThy2J/view?usp=sharing | April 2021 - July 2021
+[Project Link](https://drive.google.com/file/d/1rXhfer60FrznJaL1VhWcUIJ9XIXThy2J/view?usp=sharing) | April 2021 - July 2021
 1. Led an eight-person team from diverse professional backgrounds, including the Judicial Yuan and AU Optronics, to innovate a solution for generating judicial press releases under time pressure.
 2. Devised a 'generic structure' for the Judicial Yuan's press releases through collaborative analysis, setting the foundation for the automation process.
 3. Integrated rule-based information extraction with NLP (BERT for article summarization) to convert judgment documents into press release drafts rapidly.
