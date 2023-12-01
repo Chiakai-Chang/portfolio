@@ -131,13 +131,13 @@ Taipei, Taiwan2017
 2022
 * Demonstrated proficiency in leveraging advanced tools and techniques, including CuDF, CuPy, TensorFlow 2, NVIDIA Merlin™, NVTabular, and NVIDIA Triton Inference Server, to develop and deploy GPU-accelerated, real-time recommender systems. This certification highlights my intermediate knowledge of Python and data science skills, relevant for roles in software development, data analysis, data science, AI, and prompt engineering.
 
-### <span style="color:#3a75e6">Intermediate Training in Technology Investigation</span> | National Police Agency, Ministry of the Interior
-2022
-* Certified in advanced techniques relevant to digital forensics, cybersecurity intelligence analysis, OSINT, and virtual currency. The program included hands-on training in packet recording software and deep fake image detection, equipping me with practical skills for complex digital investigations. This certification directly enhances my capabilities in areas of data analysis, cybersecurity, and AI, crucial for roles in software development and data science.
-
 ### <span style="color:#3a75e6">Advanced Training in Technology Investigation</span> | National Police Agency, Ministry of the Interior
 2022
 * This certification showcases advanced skills in digital forensics, cybersecurity, and data analysis. The course covered practical MAC forensics, in-depth cybersecurity intelligence analysis, big data mining for online intelligence, hands-on experience in X-Lab security practices, network forensics, cryptocurrency tracking, and digital evidence collection. Additionally, it included training in laboratory digital forensics techniques and image file recovery and analysis. This certification is highly relevant for roles in software development, data science, AI, and Prompt Engineering, demonstrating a strong foundation in security, data analysis, and investigative techniques.
+
+### <span style="color:#3a75e6">Intermediate Training in Technology Investigation</span> | National Police Agency, Ministry of the Interior
+2022
+* Certified in advanced techniques relevant to digital forensics, cybersecurity intelligence analysis, OSINT, and virtual currency. The program included hands-on training in packet recording software and deep fake image detection, equipping me with practical skills for complex digital investigations. This certification directly enhances my capabilities in areas of data analysis, cybersecurity, and AI, crucial for roles in software development and data science.
 
 ### <span style="color:#3a75e6">Edge AI Engineer Training Completion</span> | MAKERPRO x CUPOY; Sponsored by Intel
 2022
