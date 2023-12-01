@@ -78,7 +78,7 @@ September 2017 - Present
 4. Conceived and implemented the ATM Transaction Data Automatic Query and Compilation Helper, which autonomously manages ATM transaction data, markedly enhancing the data analysis capability of investigative teams.
 5. Personally crafted the Massive Keyword Matcher, a robust system for automating keyword comparison across cases, thus reducing the investigative time and effort required.
 
-### <span style="color:#3a75e6">Business Card as a WebsiteData Science Association</span> | under the guidance of Adms Chung, Co-founder & CEO at MoBagel Inc.
+### <span style="color:#3a75e6">Business Card as a WebsiteData Science Association</span> | TWDS mentorship, under the guidance of Adms Chung, Co-founder & CEO at MoBagel Inc.
 [Project Link](https://drive.google.com/file/d/1itaGCoic-lbxOtNIiJUjsR7juHjiIZsZ/view?usp=sharing) | April 2023 - July 2023
 1. Collaborated in a five-member team to engineer a web application service that converts business cards into dynamic web pages. The service processes cards using OCR and object detection to parse textual and graphical data, then leverages ChatGPT and Stable Diffusion to synthesize detailed personal narratives and avatars. Streamlit integration facilitates the assembly of these components into a cohesive online presentation.
 2. Enhanced data extraction precision for business card uploads by developing OCR capabilities and object detection techniques.
