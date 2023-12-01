@@ -95,7 +95,7 @@ September 2017 - Present
 5. Collaboratively selected, designed, and deployed the AI model, integrating object recognition, human pose estimation, and single-object tracking, culminating in winning the 'People’s Choice Award' with 1908 votes and securing extensive media coverage across 25 outlets.
 
 ### Automated Press Release Generation SystemTaiwan AI Academy, Manager Weekend Training Program, Taichung 7th Term
-[Project Link](https://drive.google.com/file/d/1rXhfer60FrznJaL1VhWcUIJ9XIXThy2J/view?usp=sharing) | April 2021 - July 2021
+[Project Link](https://docs.google.com/presentation/d/1ld87wnhh-1f1sKsyZfkFMZ3yagVyyq0x/edit?usp=sharing&ouid=113702974923395207088&rtpof=true&sd=true) | April 2021 - July 2021
 1. Led an eight-person team from diverse professional backgrounds, including the Judicial Yuan and AU Optronics, to innovate a solution for generating judicial press releases under time pressure.
 2. Devised a 'generic structure' for the Judicial Yuan's press releases through collaborative analysis, setting the foundation for the automation process.
 3. Integrated rule-based information extraction with NLP (BERT for article summarization) to convert judgment documents into press release drafts rapidly.
