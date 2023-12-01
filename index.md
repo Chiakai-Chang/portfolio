@@ -2,7 +2,7 @@
 
  <img src="https://chiakai-chang.github.io/tempHTML/img/Chiakai.jpg" width = "200" alt="Chiakais portrait" align=center />
  
-* Taichung, Taiwan. Email: lotifv@gmail.com Phone: +886986288025
+* Taichung, Taiwan. | Email: lotifv@gmail.com | Phone: +886986288025
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chiakai-chang-htciu/) 
  [https://www.linkedin.com/in/chiakai-chang-htciu/](https://www.linkedin.com/in/chiakai-chang-htciu/)
 * [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Chiakai-Chang)  [https://github.com/Chiakai-Chang](https://github.com/Chiakai-Chang)
@@ -181,4 +181,25 @@ Taipei, Taiwan2017
 * Systems and Version Control: 
   * Comfortable with Windows and Linux OS, and proficient in version control with Git and GitHub.
 
+## My Achievements
+Here are some photos of my achievements, including news appearances, awards, and speaking engagements.
+| **"Outstanding Performance" Medal, 2008** | **"Exemplary Police Officer with 10 Years of Service" Medal, 2018** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/2008_Outstanding_Performance_Award.jpg" width = "400" alt="Outstanding Performance Medal, 2008" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/10_year_award.jpg" width = "400" alt="Exemplary Police Officer with 10 Years of Service Medal, 2018" align=center /> |
+| **Successfully solved a "Shooting Homicide" case, 2018** | **Successfully dismantled a "Violent Gambling Criminal Organization", 2021** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Solved_shooting_homicide_case.png" width = "400" alt="Successfully solved a Shooting Homicide case, 2018" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Cracked_crime_of_gambling_organization.jpg" width = "400" alt="Successfully dismantled a Violent Gambling Criminal Organization, 2021" align=center /> |
+| **Developed a "News Release Automatic Generation System", 2021** | **Won 1st place in the 7th AI Entrepreneurship Innovation Competition** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition.jpg" width = "400" alt="News Release Automatic Generation System" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition_1.jpg" width = "400" alt="Won 1st place in the 7th AI Entrepreneurship Innovation Competition" align=center /> |
+| **Digital Resume System for Seized Evidence at Crime Scenes, Smart City Summit & Expo, 2022** | **Smart On-Board Machine, Smart City Summit & Expo, 2022** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_EvidenceDigitalHistorySystem.jpg" width = "400" alt="Digital Resume System for Seized Evidence at Crime Scenes, 2022" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_SmartVehicle-MountedComputerSystem.jpg" width = "400" alt="Smart On-Board Machine, 2022" align=center /> |
+| I contributed to the development of the "**Digital Resume System for Seized Evidence at Crime Scenes**", another pioneering system in Taiwan. This system was showcased at the '**Smart City Summit & Expo**' in 2022. | I also contributed to the development of the "**Smart On-Board Machine**", a pioneering system in Taiwan. This system was also invited to be exhibited at the '**Smart City Summit & Expo**' in 2022. |
+| **Being invited for the Crime Intelligence Analysis course at the National Police Agency** | **Being invited for the Crime Intelligence Analysis course at the National Police Agency** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_invite.jpg" width = "400" alt="Being invited for the crime intelligence analysis course" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_photo.jpg" width = "400" alt="Crime intelligence analysis course" align=center /> |
+| [【Next P.AI】AI x Police Safety Protection – Project 0822](https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/) | **Best Popularity Award, Intel DevCup (2022)** |
+|:-:|:-:|
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award_1.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> |
 
