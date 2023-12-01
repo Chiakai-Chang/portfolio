@@ -33,7 +33,7 @@ November 2007 - October 2020Taichung, Taiwan
 ### Cross-Border Investigation AssistantTaichung City Police Department Criminal Investigation Corps
 [Project Link](https://chiakai.pse.is/XBIA) | September 2023 - Present
 1. Spearheaded the development of the Cross-Border Investigation Assistant, leveraging ChatGPT's MyGPT capabilities to streamline international law enforcement communications.
-2.Created a system that drafts multi-lingual, jurisdiction-aware emails for cross-border case investigations, enhancing global collaboration.
+2. Created a system that drafts multi-lingual, jurisdiction-aware emails for cross-border case investigations, enhancing global collaboration.
 3. Implemented a feature-rich platform providing investigative guidance, reminders on legal considerations, and tailored investigative suggestions.
 4. Enabled the generation of multilingual communication outputs in a single step, addressing the linguistic challenges in international law enforcement contexts.
 5. Formulated and integrated a specialized lexicon and appropriate language use for international correspondence, ensuring clear and correct communication across borders.
