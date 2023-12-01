@@ -119,7 +119,7 @@ Taipei, Taiwan2017
 2022
 * Certified in essential IT skills including troubleshooting, networking, and system security, foundational for roles in software development and system administration. This certificate, developed by Google, encompasses hands-on assessments and practical skills vital for supporting advanced tech roles in data analysis, data science, and AI.
 
-###Google Data Analytics CertificateCoursera
+### Google Data Analytics CertificateCoursera
 2022
 * Acquired comprehensive knowledge in data analytics through eight Google-developed courses, encompassing hands-on, practical assessments. Proficient in essential tools and platforms like spreadsheets, SQL, Tableau, and R. Equipped with skills for effective data preparation, processing, analysis, and sharing, aligning with introductory-level roles in data analytics and complementing capabilities in software development, data science, AI, and prompt engineering.
 
@@ -131,7 +131,7 @@ Taipei, Taiwan2017
 2022
 * Demonstrated proficiency in leveraging advanced tools and techniques, including CuDF, CuPy, TensorFlow 2, NVIDIA Merlin™, NVTabular, and NVIDIA Triton Inference Server, to develop and deploy GPU-accelerated, real-time recommender systems. This certification highlights my intermediate knowledge of Python and data science skills, relevant for roles in software development, data analysis, data science, AI, and prompt engineering.
 
-###Intermediate Training in Technology InvestigationNational Police Agency, Ministry of the Interior
+### Intermediate Training in Technology InvestigationNational Police Agency, Ministry of the Interior
 2022
 * Certified in advanced techniques relevant to digital forensics, cybersecurity intelligence analysis, OSINT, and virtual currency. The program included hands-on training in packet recording software and deep fake image detection, equipping me with practical skills for complex digital investigations. This certification directly enhances my capabilities in areas of data analysis, cybersecurity, and AI, crucial for roles in software development and data science.
 
