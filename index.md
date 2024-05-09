@@ -1,6 +1,6 @@
 # <span style="color:#3a75e6">Chia-Kai Chang</span>
 
- <img src="https://chiakai-chang.github.io/portfolio/img/Cillian.jpg" width = "200" alt="Chiakais portrait" align=center />
+ <img src="https://chiakai-chang.github.io/portfolio/img/Cillian.png" width = "200" alt="Chiakais portrait" align=center />
  
 * Taichung, Taiwan. | Email: lotifv@gmail.com | Phone: +886986288025
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chiakai-chang-htciu/) 
