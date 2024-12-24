@@ -18,11 +18,13 @@ I have also delivered AI and cybercrime training to national agencies, enhancing
 
 ## Education
 ### <span style="color:#3a75e6">Master of Science in Information and Communication for Technology Crime | National Yang Ming Chiao Tung University, College of Computer Science
-Hsinchu, Taiwan, 2024/11
+Hsinchu, Taiwan, 2024/11<br>
+
 Developed a collaborative cybercrime investigation system addressing challenges like information overload and inefficient collaboration.
-* Key contributions:
- * **Innovative Context Collection**: Introduced a method to capture investigative contexts, preserving experience for AI training.
- * **Efficiency and Collaboration**: Designed tools for task delegation and progress tracking, improving workflows.
+* **Key contributions**:
+  * **Innovative Context Collection**: Introduced a method to capture investigative contexts, preserving experience for AI training.
+  * **Efficiency and Collaboration**: Designed tools for task delegation and progress tracking, improving workflows.
+
 Validated for usability and impact, this research lays the foundation for integrating AI into policing.
 
 ### <span style="color:#3a75e6">Associate Degree in Administrative Police, Taiwan Police CollegeTaiwan</span> | Police College
