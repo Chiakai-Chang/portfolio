@@ -1,6 +1,6 @@
 # <span style="color:#3a75e6">Chia-Kai Chang</span>
 
- <img src="https://chiakai-chang.github.io/portfolio/img/Cillian.png" width = "200" alt="Chiakais portrait" align=center />
+[<img src="https://chiakai-chang.github.io/portfolio/img/Cillian.png" width = "200" alt="Chiakais portrait" align=center />](https://chiakai.pse.is/Resume_en)
  
 * Taichung, Taiwan. | Email: lotifv@gmail.com | Phone: +886986288025
 * [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chiakai-chang-htciu/) 
@@ -8,7 +8,25 @@
 * [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/Chiakai-Chang)  [https://github.com/Chiakai-Chang](https://github.com/Chiakai-Chang)
 
 ## Summary
-Seasoned Tech Crime Investigator with 16+ years in law enforcement, excelling in AI integration, digital forensics, and data-driven policing. Proven track record in high-profile case resolutions and innovative tech solutions for crime analysis.
+I am Chia-Kai Chang, a senior cybercrime investigator with 17+ years of experience leveraging AI, digital forensics, and data analytics to combat technological crime. Recipient of the 2024 National Exemplary Award for Technological Crime Investigation, I specialize in developing tools that enhance investigative efficiency.
+
+At the Cybercrime Unit of the Taichung City Police Department, I created over 20 tools that streamlined workflows and provided actionable insights. My expertise in OSINT and data-driven analysis has been instrumental in resolving critical cases.
+
+In 2024, I earned a Master's degree in Information and Communication for Technology Crime Investigation from National Yang Ming Chiao Tung University. My research focused on a collaborative investigation system that improved efficiency and usability in law enforcement.
+
+I have also delivered AI and cybercrime training to national agencies, enhancing investigative capabilities. My goal is to advance AI-driven solutions that improve operations and drive innovation in technology-focused fields.
+
+## Education
+### <span style="color:#3a75e6">Master of Science in Information and Communication for Technology Crime | National Yang Ming Chiao Tung University, College of Computer Science
+Hsinchu, Taiwan, 2024/11
+Developed a collaborative cybercrime investigation system addressing challenges like information overload and inefficient collaboration.
+* Key contributions:
+ * **Innovative Context Collection**: Introduced a method to capture investigative contexts, preserving experience for AI training.
+ * **Efficiency and Collaboration**: Designed tools for task delegation and progress tracking, improving workflows.
+Validated for usability and impact, this research lays the foundation for integrating AI into policing.
+
+### <span style="color:#3a75e6">Associate Degree in Administrative Police, Taiwan Police CollegeTaiwan</span> | Police College
+Taipei, Taiwan, 2017
 
 ## Experience
 ### <span style="color:#3a75e6">Detective</span> | Taichung City Police Department Criminal Investigation Corps
@@ -102,14 +120,6 @@ September 2017 - Present
 4. Reduced the reading time required for legal verdicts by an average of 9 hours, cutting time costs by 81.88%, calculated at a normal reading speed of 120 words per minute.
 5. Achieved the 1st place in the 7th AI Industry Innovation Competition at the Taiwan AI Academy, Taichung, before the era of ChatGPT, laying the groundwork for future QA-style press release assistants.
 
-## Education
-### <span style="color:#3a75e6">Master of Science in Information and Communication for Technology Crime (Expected September 2024)</span> | National Yang Ming Chiao Tung University
-Hsinchu, Taiwan2024
-* Minor in Specialized in Technology Crime Investigation and Information Communication within the Master's program, with a focus on courses such as Cryptocurrency Investigation Practices, Network Science and Social Computing, IoT Devices and Platforms, Mobile Network Security, Mixed Reality, Data Mining, Video Streaming and Tracking, and Applied Computer Vision.
-
-### <span style="color:#3a75e6">Associate Degree in Administrative Police, Taiwan Police CollegeTaiwan</span> | Police College
-Taipei, Taiwan2017
-
 ## Certifications
 ### <span style="color:#3a75e6">Microsoft Certified: Azure AI Fundamentals</span> | Microsoft
 2023
@@ -184,16 +194,19 @@ Taipei, Taiwan2017
 ## My Achievements
 Here are some photos of my achievements, including news appearances, awards, and speaking engagements.
 
-| **"Outstanding Performance" Medal, 2008** | **"Exemplary Police Officer with 10 Years of Service" Medal, 2018** |
+| **Recipient of the 2024 National Exemplary Award for Technological Crime Investigation** | **Widely Recognized Expert Lecturer on Tech Crime and Investigation for National Police Agencies and Universities** |
 |:-:|:-:|
-| <img src="https://chiakai-chang.github.io/tempHTML/img/2008_Outstanding_Performance_Award.jpg" width = "400" alt="Outstanding Performance Medal, 2008" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/10_year_award.jpg" width = "400" alt="Exemplary Police Officer with 10 Years of Service Medal, 2018" align=center /> |
-| **Successfully solved a "Shooting Homicide" case, 2018** | **Successfully dismantled a "Violent Gambling Criminal Organization", 2021** |
-| <img src="https://chiakai-chang.github.io/tempHTML/img/Solved_shooting_homicide_case.png" width = "400" alt="Successfully solved a Shooting Homicide case, 2018" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Cracked_crime_of_gambling_organization.jpg" width = "400" alt="Successfully dismantled a Violent Gambling Criminal Organization, 2021" align=center /> |
-| **Developed a "News Release Automatic Generation System", 2021** | **Won 1st place in the 7th AI Entrepreneurship Innovation Competition** |
-| <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition.jpg" width = "400" alt="News Release Automatic Generation System" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition_1.jpg" width = "400" alt="Won 1st place in the 7th AI Entrepreneurship Innovation Competition" align=center /> |
-| **Digital Resume System for Seized Evidence at Crime Scenes, Smart City Summit & Expo, 2022** | **Smart On-Board Machine, Smart City Summit & Expo, 2022** |
-| <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_EvidenceDigitalHistorySystem.jpg" width = "400" alt="Digital Resume System for Seized Evidence at Crime Scenes, 2022" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_SmartVehicle-MountedComputerSystem.jpg" width = "400" alt="Smart On-Board Machine, 2022" align=center /> |
-| **Being invited for the Crime Intelligence Analysis course at the National Police Agency** | **Being invited for the Crime Intelligence Analysis course at the National Police Agency** |
-| <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_invite.jpg" width = "400" alt="Being invited for the crime intelligence analysis course" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_photo.jpg" width = "400" alt="Crime intelligence analysis course" align=center /> |
+| <img src="https://chiakai-chang.github.io/portfolio/img/2024_National_Exemplary_Award.jpg" width = "400" alt="2024 National Exemplary Award for Technological Crime Investigation" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/NPA_AnalysisCourse_photo.jpg" width = "400" alt="Crime intelligence analysis course" align=center /> |
+| [**Cloud-Based Intelligent Recognition System (2024 Smart City Expo)**](https://news.pchome.com.tw/society/tcpttw/20241210/index-73379652279515334002.html) | [**Cloud-Based Intelligent Recognition System (Formosa TV Viewpoint Feature)**](https://youtu.be/bXDE0Xf8g8k?si=IDKOtJT58ftVTpfV) |
+| <img src="https://chiakai-chang.github.io/portfolio/img/2024SmartCityExpo.jpg" width = "400" alt="2024 Smart City Expo" align=center /> | <iframe width="400" height="315" src="https://www.youtube.com/embed/bXDE0Xf8g8k?si=ROfwnaFovOmj02K7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
 | [【Next P.AI】AI x Police Safety Protection – Project 0822](https://makerpro.cc/intel-devcup/0822%E5%B0%88%E6%A1%88/) | **Best Popularity Award, Intel DevCup (2022)** |
 | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award_1.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Best_Popularity_Award.jpg" width = "400" alt="Best Popularity Award, Intel DevCup (2022)" align=center /> |
+| **Digital Resume System for Seized Evidence at Crime Scenes, Smart City Summit & Expo, 2022** | **Smart On-Board Machine, Smart City Summit & Expo, 2022** |
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_EvidenceDigitalHistorySystem.jpg" width = "400" alt="Digital Resume System for Seized Evidence at Crime Scenes, 2022" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Smart_City_Exhibition_SmartVehicle-MountedComputerSystem.jpg" width = "400" alt="Smart On-Board Machine, 2022" align=center /> |
+| **Developed a "News Release Automatic Generation System", 2021** | **Won 1st place in the 7th AI Entrepreneurship Innovation Competition** |
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition.jpg" width = "400" alt="News Release Automatic Generation System" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Winning_7thAIEntrepreneurshipInnovationCompetition_1.jpg" width = "400" alt="Won 1st place in the 7th AI Entrepreneurship Innovation Competition" align=center /> |
+| **Successfully solved a "Shooting Homicide" case, 2018** | **Successfully dismantled a "Violent Gambling Criminal Organization", 2021** |
+| <img src="https://chiakai-chang.github.io/tempHTML/img/Solved_shooting_homicide_case.png" width = "400" alt="Successfully solved a Shooting Homicide case, 2018" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/Cracked_crime_of_gambling_organization.jpg" width = "400" alt="Successfully dismantled a Violent Gambling Criminal Organization, 2021" align=center /> |
+| **"Outstanding Performance" Medal, 2008** | **"Exemplary Police Officer with 10 Years of Service" Medal, 2018** |
+| <img src="https://chiakai-chang.github.io/tempHTML/img/2008_Outstanding_Performance_Award.jpg" width = "400" alt="Outstanding Performance Medal, 2008" align=center /> | <img src="https://chiakai-chang.github.io/tempHTML/img/10_year_award.jpg" width = "400" alt="Exemplary Police Officer with 10 Years of Service Medal, 2018" align=center /> |
+
